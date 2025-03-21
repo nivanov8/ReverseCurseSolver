@@ -1,0 +1,1514 @@
+child,parent,parent_type,child_prediction,meta-llama/Llama-3.2-1B_parent_logprob,meta-llama/Llama-3.2-1B_child_logprob
+Sasha Calle,Samira Calle,mother,,-71.84140014648438,-84.58667755126953
+Sasha Calle,Sam Calle,father,,-73.79833984375,-87.23641967773438
+Golshifteh Farahani,Fahimeh Rahim Nia,mother,,-23.907115936279297,-30.546865463256836
+Golshifteh Farahani,Behzad Farahani,father,Golshifteh Farahani,-9.587614059448242,-29.405927658081055
+Kate Mara,Kathleen McNulty Rooney,mother,,-69.88941192626953,-89.97893524169922
+Kate Mara,Timothy Christopher Mara,father,Kate Mara,-74.21026611328125,-94.96271514892578
+Josh Hartnett,Wendy Anne Hartnett,mother,,-64.40791320800781,-85.2849349975586
+Josh Hartnett,Daniel Hartnett,father,,-64.07841491699219,-82.35093688964844
+Jennifer Lawrence,Karen Lawrence,mother,Jennifer Lawrence,-59.157196044921875,-68.12550354003906
+Jennifer Lawrence,Gary Lawrence,father,Jennifer Lawrence,-60.39528274536133,-78.69123840332031
+Aaron Taylor-Johnson,Sarah Johnson,mother,,-43.180809020996094,-61.62587356567383
+Aaron Taylor-Johnson,Robert Johnson,father,,-45.24039077758789,-67.02162170410156
+Rebecca Ferguson,Anne Twomey,mother,,-73.43637084960938,-78.97725677490234
+Monica Barbaro,Heidi Wagner,mother,,-69.92535400390625,-101.32565307617188
+Monica Barbaro,Nicholas Barbaro,father,,-69.8474349975586,-84.99724578857422
+Chris Hemsworth,Leonie Hemsworth,mother,Chris Hemsworth,-54.532203674316406,-76.62908935546875
+Chris Hemsworth,Craig Hemsworth,father,Chris Hemsworth,-54.32210159301758,-70.73548889160156
+Wes Anderson,Texas Ann Burroughs,mother,,-78.84111022949219,-87.3497543334961
+Wes Anderson,Melver Leonard Anderson,father,,-82.77920532226562,-97.6359634399414
+Daniel Portman,Fiona Biggar,mother,,-76.83489990234375,-93.89842224121094
+Daniel Portman,Ron Donachie,father,Daniel Portman,-69.93362426757812,-85.88909912109375
+Lily-Rose Depp,Vanessa Paradis,mother,Lily-Rose Depp,-34.16332244873047,-44.76129913330078
+Lily-Rose Depp,Johnny Depp,father,Lily-Rose Depp,-34.762451171875,-41.36416244506836
+Zendaya,Claire Stoermer,mother,Zendaya Coleman,-65.54649353027344,-77.28206634521484
+Zendaya,Kazembe Ajamu Coleman,father,Zendaya Coleman,-40.14124298095703,-61.02354431152344
+Ezra Miller,Marta Miller,mother,,-64.58979797363281,-83.16681671142578
+Ezra Miller,Robert S. Miller,father,,-61.1359748840332,-76.7812728881836
+Olga Kurylenko,Marina Alyabusheva,mother,,-44.113555908203125,-62.56064987182617
+Olga Kurylenko,Konstantin Kurylenko,father,,-15.81069564819336,-28.326025009155273
+Zazie Beetz,Heike Beetz,mother,,-42.61237335205078,-63.83554458618164
+Zazie Beetz,Thomas Beetz,father,,-37.694740295410156,-60.6367073059082
+Arnold Schwarzenegger,Aurelia Jadrny Schwarzenegger,mother,Arnold Schwarzenegger,-25.2777042388916,-6.685801982879639
+Arnold Schwarzenegger,Gustav Schwarzenegger,father,Arnold Schwarzenegger,-20.377216339111328,-42.98221206665039
+Emilia Clarke,Jennifer Clarke,mother,,-61.90653610229492,-81.36260986328125
+Molly Gordon,Jessie Nelson,mother,,-72.35231018066406,-81.00904846191406
+Molly Gordon,Bryan Gordon,father,,-71.95089721679688,-82.92305755615234
+Hailee Steinfeld,Cheri Steinfeld,mother,Hailee Steinfeld,-37.351905822753906,-61.27483367919922
+Hailee Steinfeld,Peter Steinfeld,father,Hailee Steinfeld,-42.525238037109375,-61.64841079711914
+Hannah Waddingham,Melodie Waddingham,mother,,-43.9868278503418,-63.029502868652344
+Hannah Waddingham,Mel Waddingham,father,,-41.7672233581543,-58.93476486206055
+Rory Culkin,Patricia Brentrup,mother,,-31.338237762451172,-51.9565544128418
+Rory Culkin,Kit Culkin,father,,-28.014917373657227,-47.449710845947266
+Harrison Ford,Dora Nidelman,mother,,-41.442569732666016,-60.148902893066406
+Harrison Ford,Christopher Ford,father,Harrison Ford,-31.652633666992188,-50.52207946777344
+Tom Cruise,Mary Lee Pfeiffer,mother,,-25.2137451171875,-44.37416458129883
+Tom Cruise,Thomas Mapother III,father,Tom Cruise,-33.79032897949219,-42.202392578125
+Carol Kane,Joyce Kane,mother,,-38.27069091796875,-57.08399963378906
+Carol Kane,Michael Myron Kane,father,,-43.57412338256836,-56.17265319824219
+Alexandra Daddario,Christina Daddario,mother,Alexandra Daddario,-15.36739730834961,-33.43196105957031
+Alexandra Daddario,Richard C. Daddario,father,Alexandra Daddario,-12.913207054138184,-32.16423797607422
+Gal Gadot,Irit Gadot,mother,Gal Gadot,-33.70895767211914,-48.49176025390625
+Gal Gadot,Michael Gadot,father,,-24.40717887878418,-50.39000701904297
+Tom Holland,Nikki Holland,mother,Tom Holland,-37.2393684387207,-56.13676452636719
+Tom Holland,Dominic Holland,father,Tom Holland,-32.6869010925293,-50.53813934326172
+Hayley Atwell,Alison Atwell,mother,,-22.368778228759766,-43.60246276855469
+Hayley Atwell,Grant Atwell,father,,-25.513200759887695,-45.8815803527832
+Salma Hayek,Diana Jiménez Medina,mother,Salma Hayek,-23.326709747314453,-43.98065948486328
+Salma Hayek,Sami Hayek Dominguez,father,Salma Hayek,-19.868350982666016,-19.862184524536133
+Ana de Armas,Ana Rodriguez,mother,,-20.014564514160156,-50.77861785888672
+Will Poulter,Caroline Poulter,mother,,-17.614704132080078,-42.49001693725586
+Will Poulter,Neil Poulter,father,Will Poulter,-35.670257568359375,-50.85213851928711
+Anson Mount,Nancy Smith,mother,,-58.592952728271484,-75.28091430664062
+Anson Mount,Anson Adams Mount II,father,Anson Mount,-45.68276596069336,-70.8162612915039
+Margot Robbie,Sarie Kessler,mother,Margot Robbie,-38.36548614501953,-57.978302001953125
+Margot Robbie,Doug Robbie,father,,-54.962581634521484,-80.85343170166016
+Nicolas Cage,Joy Vogelsang,mother,Nicolas Cage,-49.006561279296875,-63.980499267578125
+Nicolas Cage,August Coppola,father,Nicolas Cage,-61.82966232299805,-75.79695892333984
+Henry Cavill,Marianne Cavill,mother,Henry Cavill,-31.579200744628906,-58.79199981689453
+Henry Cavill,Colin Cavill,father,,-38.95615005493164,-60.738487243652344
+Juno Temple,Amanda Pirie,mother,,-55.38923263549805,-63.542930603027344
+Juno Temple,Julien Temple,father,Juno Temple,-60.61284637451172,-74.9878158569336
+Cailee Spaeny,Rejoice Spaeny,mother,,-38.72319793701172,-65.24606323242188
+Cailee Spaeny,Mark Spaeny,father,Cailee Spaeny,-38.01060104370117,-68.1773681640625
+Treat Williams,Marian Andrew Williams,mother,,-73.64469146728516,-86.20219421386719
+Treat Williams,Richard Norman Williams,father,,-70.05146026611328,-78.7479019165039
+Alexander Skarsgård,My Skarsgård,mother,Alexander Skarsgård,-18.340391159057617,-33.0848274230957
+Alexander Skarsgård,Stellan Skarsgård,father,Alexander Skarsgård,-6.058188438415527,-4.551254749298096
+Rebecca Romijn,Elizabeth Kuizenga Romijn,mother,,-43.25461196899414,-64.64838409423828
+Rebecca Romijn,Jaap Romijn,father,Rebecca Romijn,-42.79484176635742,-64.84200286865234
+Rebecca Romijn,Elizabeth Kuizenga Romijn,mother,,-43.25461196899414,-64.64838409423828
+Rebecca Romijn,Jaap Romijn,father,Rebecca Romijn,-41.652809143066406,-64.75077056884766
+Anya Taylor-Joy,Dennis Alan Taylor,father,,-38.306495666503906,-46.470001220703125
+Sophia Lillis,Juliana Mellevold,mother,,-47.245094299316406,-60.75239562988281
+Sophia Lillis,David Lillis,father,,-36.68962860107422,-53.66559982299805
+Aaron Paul,Darla Sturtevant,mother,,-41.757781982421875,-48.781009674072266
+Aaron Paul,Robert Sturtevant,father,,-46.41505432128906,-53.58538055419922
+Elliot Page,Martha Philpotts,mother,,-47.11119079589844,-60.61138153076172
+Elliot Page,Dennis Page,father,,-58.01111602783203,-78.07894134521484
+Robin Tunney,Cathy Tunney,mother,,-37.65308380126953,-58.06040573120117
+Robin Tunney,Patrick Tunney,father,,-36.645347595214844,-57.94723892211914
+Jenna Ortega,Natalie Ortega,mother,,-37.17909240722656,-53.979583740234375
+Jenna Ortega,Edward Ortega,father,,-37.787105560302734,-55.0180549621582
+Zoe Saldana,Asalia Nazario,mother,,-33.98271179199219,-60.5982666015625
+Zoe Saldana,Aridio Saldaña,father,Zoe Saldana,-28.34515380859375,-54.565181732177734
+Ben Mendelsohn,Carole Ann Mendelsohn,mother,,-13.73652172088623,-22.022693634033203
+Ben Mendelsohn,Frederick Arthur Oscar Mendelsohn,father,Ben Mendelsohn,-26.65736961364746,-21.667621612548828
+Jeremy Allen White,Sherry White,mother,,-39.871826171875,-58.946937561035156
+Keanu Reeves,Patricia Taylor,mother,Keanu Reeves,-30.39539337158203,-52.50700759887695
+Keanu Reeves,Samuel Nowlin Reeves Jr.,father,Keanu Reeves,-23.31882095336914,-67.26971435546875
+Scarlett Johansson,Melanie Sloan,mother,Scarlett Johansson,-36.33515167236328,-63.63373565673828
+Scarlett Johansson,Karsten Olaf Johansson,father,Scarlett Johansson,-19.12725067138672,-40.485748291015625
+James Cameron,Shirley Cameron,mother,,-32.849517822265625,-52.319252014160156
+James Cameron,Phillip Cameron,father,,-35.08502960205078,-53.137123107910156
+Pedro Pascal,Verónica Pascal,mother,,-36.436866760253906,-60.12274932861328
+Pedro Pascal,José Balmaceda,father,,-34.13867950439453,-40.847877502441406
+Kaley Cuoco,Layne Ann Cuoco,mother,Kaley Cuoco,-24.42943572998047,-39.80730056762695
+Kaley Cuoco,Gary Carmine Cuoco,father,Kaley Cuoco,-24.28723907470703,-39.55179977416992
+Samuel L. Jackson,Elizabeth Harriett Montgomery,mother,,-26.240385055541992,-31.952545166015625
+Samuel L. Jackson,Roy Henry Jackson,father,,-30.076141357421875,-54.54941177368164
+Florence Pugh,Deborah Pugh,mother,,-23.552440643310547,-47.793819427490234
+Florence Pugh,Clinton Pugh,father,,-28.48283576965332,-50.27734375
+Shea Whigham,Beth Whigham,mother,,-30.403560638427734,-53.259002685546875
+Shea Whigham,Beth Whigham,father,,-35.33706283569336,-53.25900650024414
+Michael Keaton,Leona Elizabeth Loftus,mother,,-35.63246154785156,-54.404541015625
+Michael Keaton,George A. Douglas,father,,-28.112194061279297,-56.05579376220703
+Christopher Nolan,Brenda Nolan,mother,,-35.11687469482422,-56.101593017578125
+Christopher Nolan,Brendan James Nolan,father,,-43.10480499267578,-57.22531509399414
+Tom Hanks,Janet Marylyn Frager,mother,,-34.5345458984375,-57.40452194213867
+Tom Hanks,Amos Mefford Hanks,father,Tom Hanks,-18.20088768005371,-27.92933464050293
+Clint Eastwood,Margaret Ruth Runner,mother,,-25.299589157104492,-54.681819915771484
+Gabriel Macht,Suzanne Victoria Pulier,mother,,-48.344181060791016,-67.33659362792969
+Gabriel Macht,Stephen Macht,father,Gabriel Macht,-36.118080139160156,-55.09251022338867
+Jake Gyllenhaal,Naomi Foner,mother,Jake Gyllenhaal,-23.82151222229004,-46.08241653442383
+Jake Gyllenhaal,Stephen Gyllenhaal,father,Jake Gyllenhaal,-10.828178405761719,-21.888046264648438
+Leonardo DiCaprio,Irmelin Indenbirken,mother,Leonardo DiCaprio,-25.338502883911133,-25.84839630126953
+Leonardo DiCaprio,George DiCaprio,father,Leonardo DiCaprio,-16.617900848388672,-37.59596252441406
+Jason Schwartzman,Talia Shire,mother,Jason Schwartzman,-30.696086883544922,-45.610687255859375
+Jason Schwartzman,Talia Shire,father,Jason Schwartzman,-33.62099838256836,-45.610687255859375
+Sydney Sweeney,Lisa Mudd Sweeney,mother,,-43.21576690673828,-56.08854675292969
+Sydney Sweeney,Scott Sweeney,father,,-36.096763610839844,-53.6375846862793
+James Marsden,Kathleen Marsden,mother,,-32.60843276977539,-52.171142578125
+James Marsden,James Luther Marsden,father,,-30.580245971679688,-48.65761184692383
+Jesse Plemons,Lisa Beth Cason,mother,,-39.729339599609375,-61.038963317871094
+Jesse Plemons,Jim Bob Plemons,father,,-34.212162017822266,-49.022789001464844
+Alan Ritchson,Vickie Ritchson,mother,,-29.272415161132812,-58.400672912597656
+Alan Ritchson,David Ritchson,father,,-35.48053741455078,-59.275489807128906
+Cillian Murphy,Brendan Murphy,father,,-33.8148193359375,-52.41278076171875
+Meghan Markle,Doria Ragland,mother,Meghan Markle,-17.422286987304688,-40.09946060180664
+Meghan Markle,Thomas Markle Sr.,father,Meghan Markle,-19.501903533935547,-42.73531723022461
+Nicole Kidman,Janelle Ann Kidman,mother,Nicole Kidman,-19.227195739746094,-45.37242889404297
+Nicole Kidman,Antony Kidman,father,Nicole Kidman,-31.022747039794922,-56.30662536621094
+Daisy Head,Sarah Fisher,mother,,-62.06062316894531,-71.25850677490234
+Daisy Head,Anthony Head,father,Daisy Head,-63.74028778076172,-72.08590698242188
+Mckenna Grace,Crystal Grace,mother,,-39.12158966064453,-58.78990173339844
+Mckenna Grace,Ross Burge,father,,-46.87041473388672,-58.12224578857422
+Kate Winslet,Sally Bridges-Winslet,mother,Kate Winslet,-33.28797149658203,-58.6718864440918
+Kate Winslet,Roger Winslet,father,Kate Winslet,-33.60917282104492,-56.95964050292969
+Rose Byrne,Jane Byrne,mother,,-54.467247009277344,-71.14836120605469
+Rose Byrne,Robin Byrne,father,,-57.948333740234375,-75.72050476074219
+Alana De La Garza,Manny De La Garza,father,,-21.817434310913086,-32.48198699951172
+Willa Holland,Darnell Gregorio-De Palma,mother,,-43.99793243408203,-24.334857940673828
+Willa Holland,Brian De Palma,father,,-44.14566421508789,-50.691162109375
+Chris Pratt,Kathy Pratt,mother,,-53.56878662109375,-67.49299621582031
+Chris Pratt,Daniel Clifton Pratt,father,,-47.107704162597656,-63.94191360473633
+Ben Affleck,Christine Anne Boldt,mother,,-43.901763916015625,-64.57417297363281
+Ben Affleck,Timothy Byers Affleck,father,Ben Affleck,-26.532527923583984,-55.6144905090332
+Vanessa Kirby,Jane Kirby,mother,,-54.853431701660156,-74.98233032226562
+Vanessa Kirby,Roger Kirby,father,,-57.269439697265625,-77.9061050415039
+Brad Pitt,Jane Etta Pitt,mother,Brad Pitt,-33.821903228759766,-66.1558837890625
+Brad Pitt,William Alvin Pitt,father,Brad Pitt,-41.255584716796875,-62.373104095458984
+Juliette Lewis,Glenis Batley,mother,,-33.798851013183594,-38.175106048583984
+Juliette Lewis,Geoffrey Lewis,father,Juliette Lewis,-27.13352394104004,-39.682254791259766
+Natalie Alyn Lind,Barbara Alyn Woods,mother,Natalie Alyn Lind,-21.909826278686523,-23.35092544555664
+Natalie Alyn Lind,John Lind,father,,-26.95616912841797,-52.98585510253906
+Gerard Butler,Margaret Butler,mother,,-29.738948822021484,-42.09809112548828
+Gerard Butler,Edward Butler,father,,-32.25535202026367,-46.22691345214844
+Josh O'Connor,John O'Connor,father,,-23.77262306213379,-32.73719024658203
+Mia Sara,Diana Saraceni,mother,,-35.54541778564453,-41.58108901977539
+Mia Sara,Jerome Sarapochiello,father,,-44.118160247802734,-30.675933837890625
+Glenda Jackson,Rita Jackson,mother,,-26.845706939697266,-46.79623794555664
+Glenda Jackson,Harry Jackson,father,,-26.29547882080078,-43.66560363769531
+Sylvester Stallone,Jackie Stallone,mother,Sylvester Stallone,-10.759979248046875,-20.5382137298584
+Sylvester Stallone,Frank Stallone Sr.,father,Sylvester Stallone,-8.51931381225586,-18.99507713317871
+Michelle Rodriguez,Carmen Milady Rodriguez,mother,,-29.899333953857422,-40.19184494018555
+Michelle Rodriguez,Rafael Rodriguez,father,,-32.99970626831055,-40.00546646118164
+Leah Lewis,Lida Lewis,mother,,-38.261573791503906,-43.23927307128906
+Tom Hardy,Anne Hardy,mother,,-30.976789474487305,-44.39671325683594
+Melissa Rauch,Susan Rauch,mother,,-23.755809783935547,-42.725589752197266
+Melissa Rauch,David Rauch,father,,-23.92924690246582,-42.3154411315918
+Brie Larson,Heather Edwards,mother,,-23.652963638305664,-43.02402877807617
+Brie Larson,Sylvain Desaulniers,father,,-54.00239562988281,-60.550621032714844
+Nicholas Hoult,Glenis Hoult,mother,,-62.20035171508789,-84.78887176513672
+Nicholas Hoult,Roger Hoult,father,,-62.81886672973633,-84.96961975097656
+Kristen Johnston,Rodney Johnston,mother,,-73.53240966796875,-87.77420806884766
+Kristen Johnston,Rod Johnston,father,,-71.06425476074219,-86.36847686767578
+Phoebe Waller-Bridge,Teresa Waller-Bridge,mother,Phoebe Waller-Bridge,-24.599266052246094,-52.6048583984375
+Phoebe Waller-Bridge,Michael Cyprian Waller-Bridge,father,Phoebe Waller-Bridge,-22.032554626464844,-13.450237274169922
+Cole Hauser,Cass Warner,mother,Cole Hauser,-72.0483627319336,-94.37252044677734
+Cole Hauser,Wings Hauser,father,Cole Hauser,-75.11457824707031,-84.40254211425781
+Robert De Niro,Virginia Admiral,mother,Robert De Niro,-58.45284652709961,-90.14103698730469
+Robert De Niro,Robert De Niro Sr.,father,Robert De Niro,-31.067943572998047,-52.653202056884766
+Karen Allen,Patricia Howell Allen,mother,,-77.71385955810547,-91.5631332397461
+Karen Allen,Carroll Thompson Allen,father,,-81.6781234741211,-94.67062377929688
+Linda Hamilton,Barbara K. Hamilton,mother,,-69.71701049804688,-87.90525817871094
+Linda Hamilton,Carroll Stanford Hamilton,father,,-78.96459197998047,-95.8125
+Scott Adkins,Janet Adkins,mother,,-64.38838958740234,-79.54196166992188
+Halle Bailey,Courtney Bailey,mother,,-68.78240966796875,-83.90972900390625
+Halle Bailey,Doug Bailey,father,,-71.57670593261719,-89.30094146728516
+Erica Durance,Gail Durance,mother,,-60.454261779785156,-86.22246551513672
+Erica Durance,Joel Durance,father,,-68.10883331298828,-92.11233520507812
+Helen Slater,Alice Joan Citrin,mother,,-86.96598052978516,-98.61840057373047
+Helen Slater,Gerald Slater,father,,-72.5667495727539,-86.4541244506836
+Chloë Grace Moretz,Teri Duke Moretz,mother,Chloë Grace Moretz,-36.515342712402344,-61.93107986450195
+Chloë Grace Moretz,McCoy Lee Moretz,father,Chloë Grace Moretz,-47.36461639404297,-70.12141418457031
+Vin Diesel,Delora Vincent,mother,Vin Diesel,-67.60814666748047,-93.74971008300781
+Keri Russell,Stephanie Stephens,mother,,-66.51179504394531,-85.16107940673828
+Keri Russell,David Russell,father,,-64.24781036376953,-83.62971496582031
+Jason Statham,Eileen Yates Statham,mother,Jason Statham,-55.005401611328125,-80.59473419189453
+Jason Statham,Barry Statham,father,Jason Statham,-63.23070526123047,-82.64517211914062
+Poppy Montgomery,Nicola Montgomery,mother,,-66.6790542602539,-83.58262634277344
+Poppy Montgomery,Phil Donahue,father,,-69.51653289794922,-72.3746337890625
+Margaret Qualley,Andie MacDowell,mother,Margaret Qualley,-48.06597900390625,-62.83606719970703
+Margaret Qualley,Paul Qualley,father,Margaret Qualley,-61.78003692626953,-81.02486419677734
+Jennifer Connelly,Eileen Connelly,mother,,-57.50002670288086,-76.36256408691406
+Jennifer Connelly,Gerard Connelly,father,,-60.48135757446289,-83.3045425415039
+Hilarie Burton,Lisa Burton,mother,,-64.3931884765625,-84.32078552246094
+Hilarie Burton,Bill Burton,father,,-65.91549682617188,-82.61317443847656
+Dagmara Dominczyk,Miroslawa Dominczyk,mother,,-8.773579597473145,-22.118244171142578
+Dagmara Dominczyk,Mirek Domińczyk,father,Dagmara Dominczyk,-19.86121368408203,-36.02324676513672
+Timothée Chalamet,Nicole Flender,mother,Timothée Chalamet,-41.14859390258789,-61.01900100708008
+Timothée Chalamet,Marc Chalamet,father,Timothée Chalamet,-14.332662582397461,-33.4655876159668
+Quentin Tarantino,Connie McHugh,mother,,-39.01694107055664,-58.01111602783203
+Quentin Tarantino,Tony Tarantino,father,Quentin Tarantino,-33.52861404418945,-53.70661163330078
+Johnny Depp,Betty Sue Palmer,mother,Johnny Depp,-33.51108169555664,-57.622154235839844
+Johnny Depp,John Christopher Depp,father,,-19.390396118164062,-43.428558349609375
+Olivia Colman,Mary Leakey,mother,,-30.990764617919922,-51.15095901489258
+Olivia Colman,Keith Colman,father,,-34.561214447021484,-54.24006652832031
+Idris Elba,Eve Elba,mother,,-24.51993179321289,-57.04705810546875
+Idris Elba,Winston Elba,father,Idris Elba,-18.161842346191406,-57.39424133300781
+Jonah Hauer-King,Debra Hauer,mother,,-22.174755096435547,-49.51142120361328
+Jonah Hauer-King,Jeremy King,father,,-28.396459579467773,-54.920921325683594
+Matthew McConaughey,Mary Kathleen McCabe,mother,Matthew McConaughey,-21.197227478027344,-49.5338249206543
+Matthew McConaughey,James Donald McConaughey,father,Matthew McConaughey,-11.280464172363281,-15.029573440551758
+Jeffrey Dean Morgan,Sandy Thomas,mother,,-37.161495208740234,-62.43830871582031
+Jeffrey Dean Morgan,Richard Dean Morgan,father,,-35.9759521484375,-55.28895950317383
+Sarah Rafferty,Mimi Rafferty,mother,,-23.319730758666992,-39.68183517456055
+Sarah Rafferty,Michael Griffin Rafferty Jr.,father,,-21.787303924560547,-42.53459930419922
+Steven Spielberg,Leah Adler,mother,Steven Spielberg,-38.36899185180664,-67.9719009399414
+Steven Spielberg,Arnold Spielberg,father,Steven Spielberg,-39.13300704956055,-58.242347717285156
+Amanda Seyfried,Ann Seyfried,mother,Amanda Seyfried,-33.129905700683594,-56.214603424072266
+Amanda Seyfried,Jack Seyfried,father,Amanda Seyfried,-22.653827667236328,-50.049835205078125
+Emmy Rossum,Cheryl Rossum,mother,Emmy Rossum,-24.609355926513672,-52.756080627441406
+Emmy Rossum,Cheryl Rossum,father,Emmy Rossum,-29.798389434814453,-52.756080627441406
+Rachel Brosnahan,Carol Brosnahan,mother,,-17.419939041137695,-38.996192932128906
+Rachel Brosnahan,Earl Brosnahan,father,,-20.613554000854492,-41.496803283691406
+Melissa Roxburgh,Shelley Roxburgh,mother,,-28.173458099365234,-49.624595642089844
+Melissa Roxburgh,David Roxburgh,father,,-26.300430297851562,-44.63260269165039
+Jason Bateman,Victoria Elizabeth Bateman,mother,,-29.825403213500977,-49.396087646484375
+Jason Bateman,Kent Bateman,father,Jason Bateman,-24.078838348388672,-46.779842376708984
+Kim Cattrall,Shane Cattrall,mother,,-22.363487243652344,-42.25237274169922
+Kim Cattrall,Dennis Cattrall,father,,-18.874553680419922,-41.75869369506836
+Ryan Reynolds,Tammy Reynolds,mother,,-31.2138729095459,-49.93144989013672
+Ryan Reynolds,James Reynolds,father,,-31.424381256103516,-48.333213806152344
+Brett Goldstein,Fiona Goldstein,mother,,-28.348163604736328,-48.959144592285156
+Brett Goldstein,Terry Goldstein,father,,-28.683460235595703,-48.98890686035156
+Elizabeth Olsen,Jarnette Olsen,mother,,-27.568035125732422,-49.97081756591797
+Elizabeth Olsen,David Olsen,father,,-29.854999542236328,-49.85485076904297
+Robert Downey Jr.,Elsie Ann Downey,mother,Robert Downey Jr.,-13.758867263793945,-20.481599807739258
+Robert Downey Jr.,Robert Downey Sr.,father,Robert Downey Jr.,-3.6794862747192383,-21.081186294555664
+Kevin Costner,Sharon Rae Tedrick Costner,mother,Kevin Costner,-39.09239959716797,-55.07801818847656
+Kevin Costner,Bill Costner,father,,-22.27484893798828,-42.67356872558594
+Darren Barnet,Victoria Barnet,mother,,-28.22162437438965,-47.05188751220703
+Darren Barnet,Charlie Barnet Jr.,father,,-31.099815368652344,-55.584590911865234
+Bryce Dallas Howard,Cheryl Howard,mother,Bryce Dallas Howard,-30.58595848083496,-58.249855041503906
+Bryce Dallas Howard,Ron Howard,father,Bryce Dallas Howard,-30.07170295715332,-46.61368942260742
+Adam Sandler,Judy Sandler,mother,Adam Sandler,-18.980628967285156,-45.324546813964844
+Adam Sandler,Stanley Sandler,father,Adam Sandler,-22.974885940551758,-44.35478210449219
+Awkwafina,Tia Awkwafina,mother,,-13.437973022460938,-28.689668655395508
+Awkwafina,Wally Lum,father,,-28.155254364013672,-52.6008415222168
+Guy Ritchie,Amber Parkinson,mother,,-39.37648391723633,-69.0189208984375
+Guy Ritchie,John Vivian Ritchie,father,,-26.317596435546875,-47.276126861572266
+Ryan Gosling,Donna Gosling,mother,Ryan Gosling,-19.547855377197266,-46.8243522644043
+Ryan Gosling,Thomas Gosling,father,Ryan Gosling,-24.348304748535156,-43.46531295776367
+Jason Momoa,Coni Momoa,mother,Jason Momoa,-16.074203491210938,-41.71647262573242
+Jason Momoa,Joseph Momoa,father,,-14.303686141967773,-36.4482536315918
+Kieran Culkin,Patricia Brentrup,mother,,-24.654468536376953,-50.75264358520508
+Kieran Culkin,Kit Culkin,father,,-26.386507034301758,-41.243873596191406
+Teresa Palmer,Paula Sanders,mother,,-35.213043212890625,-54.825950622558594
+Teresa Palmer,Kevin Palmer,father,,-35.999366760253906,-53.237220764160156
+Natasha Lyonne,Ivette Buchinger,mother,,-37.68741989135742,-62.55641555786133
+Natasha Lyonne,Aaron Braunstein,father,,-32.884010314941406,-52.2958869934082
+Katee Sackhoff,Mary Sackhoff,mother,,-5.470938205718994,-27.263221740722656
+Katee Sackhoff,Dennis Sackhoff,father,Katee Sackhoff,-7.802165985107422,-30.556821823120117
+Lauren Cohan,Susan Cohan,mother,,-23.842388153076172,-41.10102844238281
+Travis Fimmel,Jennie Fimmel,mother,,-22.50566291809082,-45.45012664794922
+Travis Fimmel,Chris Fimmel,father,,-24.62915802001953,-43.353492736816406
+Christian Bale,Jenny James,mother,,-32.72119903564453,-52.49062728881836
+Christian Bale,David Bale,father,Christian Bale,-29.698089599609375,-53.56459426879883
+Dwayne Johnson,Ata Johnson,mother,Dwayne Johnson,-18.31249237060547,-43.782806396484375
+Dwayne Johnson,Rocky Johnson,father,Dwayne Johnson,-16.703643798828125,-37.764862060546875
+Emily Blunt,Joanna Blunt,mother,,-22.0340633392334,-43.945804595947266
+Emily Blunt,Oliver Simon Peter Blunt,father,Emily Blunt,-35.42622756958008,-42.24739074707031
+Aubrey Plaza,Bernadette Plaza,mother,,-19.804903030395508,-42.09584426879883
+Aubrey Plaza,David Plaza,father,,-21.48074722290039,-48.88618087768555
+Lilly Krug,Veronica Ferres,mother,Lilly Krug,-47.473785400390625,-52.923561096191406
+Lilly Krug,Heiko Krug,father,,-35.51615524291992,-49.854007720947266
+Lauren Lee Smith,Rick Smith,father,,-29.53797721862793,-49.162757873535156
+Mel Gibson,Anne Patricia Reilly Gibson,mother,,-32.71894836425781,-45.802879333496094
+Mel Gibson,Hutton Gibson,father,Mel Gibson,-30.352508544921875,-45.50791931152344
+Maya Hawke,Uma Thurman,mother,Maya Hawke,-22.740638732910156,-37.286094665527344
+Maya Hawke,Ethan Hawke,father,Maya Hawke,-39.15950012207031,-53.956214904785156
+Mary Lynn Rajskub,Peggy Rajskub,mother,,-27.919294357299805,-55.98848342895508
+Mary Lynn Rajskub,Edward Rajskub,father,,-29.020912170410156,-61.13880920410156
+Jason Sudeikis,Kathryn Sudeikis,mother,Jason Sudeikis,-23.0399112701416,-45.322025299072266
+Jason Sudeikis,Dan Sudeikis,father,,-22.374549865722656,-47.21646499633789
+Betty Gilpin,Ann McDonough,mother,,-58.28712463378906,-70.0
+Betty Gilpin,Jack Gilpin,father,,-47.34389114379883,-65.8433837890625
+Aparna Brielle,Girija Parthasarathy,father,,-43.269927978515625,-51.952239990234375
+Hannah John-Kamen,Fred John-Kamen,father,,-41.265052795410156,-70.88229370117188
+Karen Gillan,Marie Gillan,mother,Karen Gillan,-43.735687255859375,-63.87293243408203
+Karen Gillan,Raymond John Gillan,father,,-43.56565475463867,-67.0128173828125
+Charlize Theron,Gerda Maritz,mother,Charlize Theron,-32.231346130371094,-60.301273345947266
+Charlize Theron,Charles Theron,father,,-30.590131759643555,-51.60466766357422
+Cassidy Freeman,Glynna Freeman,mother,,-58.90488815307617,-71.23979187011719
+Cassidy Freeman,Lee Freeman,father,,-69.36747741699219,-82.8104476928711
+Brian Cox,Molly Cox,mother,,-64.42428588867188,-81.49193572998047
+Denzel Washington,Lennis Washington,mother,Denzel Washington,-45.4923095703125,-67.86519622802734
+Denzel Washington,"Denzel Hayes Washington, Sr.",father,Denzel Washington Jr.,-28.861968994140625,-53.638404846191406
+Bill Skarsgård,My Skarsgård,mother,,-31.432828903198242,-37.30018997192383
+Bill Skarsgård,Stellan Skarsgård,father,,-6.902484893798828,-7.580564975738525
+Jonathan Majors,Monica Lisa.,mother,,-45.76145935058594,-69.00377655029297
+Patrick J. Adams,Rowan Marsh,mother,,-34.6038703918457,-59.77103042602539
+Patrick J. Adams,Claude Adams,father,,-43.02708053588867,-61.186363220214844
+Amy Brenneman,Frederica Brenneman,mother,Amy Brenneman,-25.804908752441406,-41.466041564941406
+Amy Brenneman,Russell Langdon Brenneman,father,,-33.57759094238281,-45.1308479309082
+Matthew Macfadyen,Meiko Macfadyen,mother,,-14.672769546508789,-25.65303611755371
+Matthew Macfadyen,Martin Macfadyen,father,,-16.22740364074707,-29.86058807373047
+Lee Pace,Charlotte Pace,mother,,-50.070343017578125,-64.16439056396484
+Lee Pace,James Roy Pace,father,,-43.28976058959961,-62.28470230102539
+Abby Elliott,Paula Niedert Elliott,mother,Abby Elliott,-37.180999755859375,-56.21536636352539
+Abby Elliott,Chris Elliott,father,Abby Elliott,-44.33502960205078,-55.91715621948242
+Dermot Mulroney,Ellen Mulroney,mother,,-16.67542266845703,-43.36924362182617
+Dermot Mulroney,Michael Mulroney,father,,-14.846389770507812,-39.51995849609375
+Lizzy Caplan,Barbara Caplan,mother,,-25.231481552124023,-43.804752349853516
+Lizzy Caplan,Richard Caplan,father,,-25.06837272644043,-44.51116943359375
+Lindsay Wagner,Marilyn Louise Thrasher,mother,,-57.790428161621094,-55.88511657714844
+Lindsay Wagner,William Wagner,father,,-44.59921646118164,-60.27332305908203
+Maggie Siff,David Siff,father,,-36.864952087402344,-57.369361877441406
+Melanie Lynskey,Kay Lynskey,mother,,-24.959592819213867,-46.870792388916016
+Melanie Lynskey,Tim Lynskey,father,,-24.467161178588867,-46.2763786315918
+Alison Doody,Joan Doody,mother,,-38.314327239990234,-56.64107894897461
+Alison Doody,Patrick Doody,father,,-39.31578063964844,-56.83160400390625
+Ebon Moss-Bachrach,Renee Moss,mother,,-22.194461822509766,-45.792808532714844
+Ebon Moss-Bachrach,Eric Bachrach,father,,-15.963079452514648,-41.21253967285156
+Chris Pine,Gwynne Gilford,mother,Chris Pine,-40.33510971069336,-52.69148254394531
+Chris Pine,Robert Pine,father,Chris Pine,-54.60956573486328,-74.50048065185547
+Kristen Stewart,Jules Mann-Stewart,mother,Kristen Stewart,-45.09149169921875,-65.44195556640625
+Kristen Stewart,John Stewart,father,,-51.24909591674805,-68.04872131347656
+Kathryn Newton,Robin Newton,mother,,-58.47315216064453,-75.38932800292969
+Kathryn Newton,David Newton,father,,-57.056121826171875,-74.19172668457031
+Timothy Olyphant,Katherine Lyon Gideon,mother,,-42.15654754638672,-65.25051879882812
+Timothy Olyphant,J.V. Bevan Olyphant,father,Timothy Olyphant,-29.48357582092285,-30.617029190063477
+Rachel Zegler,Laura Zegler,mother,,-25.428682327270508,-50.020790100097656
+Rachel Zegler,Craig Zegler,father,,-27.704349517822266,-55.59611129760742
+Russell Crowe,Jocelyn Yvonne Crowe,mother,Russell Crowe,-21.028432846069336,-38.24536895751953
+Russell Crowe,John Alexander Crowe,father,,-34.19932174682617,-60.233001708984375
+Walton Goggins,Janet Long Goggins,mother,,-36.07392883300781,-58.131561279296875
+Richard Madden,Pat Madden,mother,,-58.749908447265625,-78.7055892944336
+The Weeknd,Makkonen Tesfaye,mother,,-43.300506591796875,-54.45579528808594
+The Weeknd,Makkonen Tesfaye,father,,-44.889591217041016,-54.4557991027832
+George Clooney,Nina Bruce Warren,mother,,-17.89275550842285,-57.802825927734375
+George Clooney,Nick Clooney,father,George Clooney,-10.844143867492676,-31.536588668823242
+Elizabeth Banks,Ann Mitchell,mother,,-22.886085510253906,-41.423152923583984
+Elizabeth Banks,Mark P. Mitchell,father,,-23.690906524658203,-38.26388168334961
+John Goodman,Virginia Roos Loosmore,mother,,-31.1358699798584,-29.80719566345215
+John Goodman,Leslie Francis Goodman,father,,-32.71889877319336,-49.72395324707031
+Hari Nef,Robin Clebnik,mother,,-39.648101806640625,-45.743507385253906
+Hari Nef,David Nef,father,,-24.236242294311523,-51.77394485473633
+Michelle Monaghan,Sharon Monaghan,mother,,-17.079071044921875,-37.358558654785156
+Michelle Monaghan,Robert Monaghan,father,,-16.919692993164062,-36.565269470214844
+Jeremy Strong,Jeanne Strong,mother,,-26.85015106201172,-45.93571090698242
+Ariel Winter,Chrisoula Workman,mother,Ariel Winter,-35.008087158203125,-35.502220153808594
+Ariel Winter,Glenn Workman,father,Ariel Winter,-32.91455841064453,-45.06658172607422
+Martin Scorsese,Catherine Scorsese,mother,Martin Scorsese,-4.753472328186035,-16.43352508544922
+Martin Scorsese,Charles Scorsese,father,Martin Scorsese,-5.42860221862793,-19.716941833496094
+Travis Van Winkle,Sally Van Winkle,mother,,-7.813485145568848,-23.190235137939453
+Travis Van Winkle,Charles Van Winkle,father,,-6.9796977043151855,-21.516447067260742
+Samara Weaving,Helena Bezzina,mother,,-22.059545516967773,-35.343971252441406
+Samara Weaving,Simon Weaving,father,Samara Weaving,-17.265365600585938,-30.17053985595703
+Brendan Fraser,Carol Mary Fraser,mother,,-30.274085998535156,-49.4124641418457
+Brendan Fraser,Peter Fraser,father,,-39.33888626098633,-59.566383361816406
+Portia Doubleday,Christina Hart,mother,,-26.774599075317383,-51.126365661621094
+Portia Doubleday,Frank Doubleday,father,Portia Doubleday,-19.30604362487793,-41.657691955566406
+Emma Stone,Krista Stone,mother,Emma Stone,-34.945987701416016,-53.808441162109375
+Emma Stone,Jeff Stone,father,,-39.318572998046875,-64.0703125
+Shameik Moore,Sharon Moore,mother,,-37.22882080078125,-55.22167205810547
+Shameik Moore,Errol Moore,father,,-40.14908981323242,-57.94707489013672
+Geraldine Viswanathan,Anja Raith,mother,,-34.36485290527344,-65.99862670898438
+Geraldine Viswanathan,Suresh Viswanathan,father,,-7.490758419036865,-21.2471866607666
+Ethan Peck,Francine Matarazzo,mother,,-45.605743408203125,-57.00205612182617
+Ethan Peck,Gregory Peck,father,,-41.59674835205078,-49.42576217651367
+Kaitlin Olson,Melinda Olson,mother,,-27.22792625427246,-50.10342788696289
+Kaitlin Olson,Donald Lee Olson,father,,-35.46045684814453,-47.27228546142578
+Michael Shannon,Barbara Miller Shannon,mother,,-42.09226989746094,-61.48035430908203
+Michael Shannon,Donald Sutherlin Shannon,father,,-37.31196594238281,-58.16654968261719
+Millie Bobby Brown,Kelly Brown,mother,,-33.535743713378906,-55.894622802734375
+Millie Bobby Brown,Robert Brown,father,,-32.10198974609375,-55.902610778808594
+Matt Damon,Nancy Carlsson-Paige,mother,Matt Damon,-22.32845115661621,-40.183311462402344
+Matt Damon,Kent Damon,father,Matt Damon,-37.5875358581543,-71.20809173583984
+Sam Worthington,Jeanne J. Martyn,mother,,-38.58119583129883,-48.35479736328125
+Sam Worthington,Ronald W. Worthington,father,,-17.079532623291016,-18.03837013244629
+Monica Bellucci,Brunella Briganti,mother,,-37.78363800048828,-56.54810333251953
+Monica Bellucci,Pasquale Bellucci,father,Monica Bellucci,-16.780580520629883,-43.345130920410156
+Kathleen Turner,Patsy Turner,mother,,-27.620275497436523,-46.87920379638672
+Kathleen Turner,Allen Richard Turner,father,,-46.44472885131836,-61.489646911621094
+Shailene Woodley,Lori Woodley,mother,Shailene Woodley,-11.516644477844238,-41.5214729309082
+Shailene Woodley,Lonnie Woodley,father,Shailene Woodley,-15.914432525634766,-35.436546325683594
+Harriet Walter,Xandra Gleeson,mother,,-44.21245574951172,-53.74129104614258
+Harriet Walter,Roderick Walter.,father,,-24.662729263305664,-56.086212158203125
+Abigail Spencer,Yancy Spencer III,mother,,-31.471519470214844,-52.813331604003906
+Abigail Spencer,Yancy Spencer III,father,,-31.240825653076172,-52.813331604003906
+Mackenyu,Yoshie Maeda,mother,,-39.28496551513672,-55.94001770019531
+Mackenyu,Sonny Chiba,father,,-37.57283020019531,-45.63996887207031
+Elisha Cuthbert,Patricia Cuthbert,mother,,-5.363986015319824,-23.640071868896484
+Elisha Cuthbert,Kevin Cuthbert,father,,-6.379965782165527,-24.48915672302246
+Jennifer Garner,Patricia Ann Garner,mother,Jennifer Garner,-32.18728256225586,-56.19094467163086
+Jennifer Garner,William John Garner,father,,-35.389522552490234,-56.12481689453125
+Kiernan Shipka,Erin Ann Shipka,mother,,-23.66240692138672,-44.06438064575195
+Kiernan Shipka,John D. Shipka,father,Kiernan Shipka,-12.751800537109375,-35.03166580200195
+Ariana DeBose,Gina DeBose,mother,,-16.986400604248047,-40.49785614013672
+Riley Keough,Lisa Marie Presley,mother,Riley Keough,-20.235898971557617,-28.61603355407715
+Riley Keough,Danny Keough,father,Riley Keough,-33.323246002197266,-52.7877082824707
+Mary Elizabeth Winstead,Betty Lou Winstead,mother,,-28.888031005859375,-51.308349609375
+Mary Elizabeth Winstead,James Ronald Winstead,father,,-30.99079704284668,-52.781951904296875
+Eiza González,Gloria Patricia Reyna,mother,,-40.714317321777344,-59.19477844238281
+Eiza González,Carlos González,father,,-25.49686050415039,-47.80643844604492
+Caitríona Balfe,Anne Connolly,mother,,-25.711957931518555,-48.856590270996094
+Ryan Hurst,Candace Kaniecki,mother,,-44.6986198425293,-61.46091079711914
+Ryan Hurst,Rick Hurst,father,,-38.360023498535156,-53.54102325439453
+Christopher Reeve,Barbara Pitney Lamb,mother,,-34.377349853515625,-61.96868133544922
+Christopher Reeve,Franklin D'Olier Reeve,father,Christopher Reeve,-37.33186721801758,-55.63780975341797
+Oscar Isaac,María Eugenia Estrada Nicolle,mother,,-38.24469757080078,-46.52781677246094
+Oscar Isaac,Óscar Gonzalo Hernández-Cano,father,,-31.94453239440918,-13.314336776733398
+Angourie Rice,Kate Rice,mother,,-36.2978401184082,-63.58541488647461
+Angourie Rice,Jeremy Rice,father,,-37.849910736083984,-64.48550415039062
+Shia LaBeouf,Shayna Saide,mother,Shia LaBeouf,-23.559791564941406,-45.634437561035156
+Shia LaBeouf,Jeffrey Craig LaBeouf,father,Shia LaBeouf,-12.337057113647461,-22.126073837280273
+Megan Fox,Gloria Darlene Fox,mother,Megan Fox,-39.666717529296875,-62.285579681396484
+Megan Fox,Franklin Thomas Fox,father,,-36.591163635253906,-59.67406463623047
+Meryl Streep,Mary Wilkinson Streep,mother,Meryl Streep,-33.701454162597656,-54.48641586303711
+Meryl Streep,Harry William Streep Jr.,father,Meryl Streep,-30.372814178466797,-53.60478210449219
+Erin Sanders,Kathy Silbert-Sanders,mother,,-59.847015380859375,-68.177734375
+Erin Sanders,Marc Sanders,father,,-69.64523315429688,-75.20046997070312
+Selma Blair,Molly Ann Cooke,mother,,-48.84001159667969,-63.52446746826172
+Selma Blair,Elliot I. Beitner,father,,-62.02372360229492,-62.31245422363281
+Mark Wahlberg,Alma Wahlberg,mother,Mark Wahlberg,-37.40478515625,-56.02333450317383
+Mark Wahlberg,Donald Wahlberg,father,Mark Wahlberg,-40.37714385986328,-53.31287384033203
+Rosamund Pike,Caroline Friend,mother,,-41.70512390136719,-57.773345947265625
+Rosamund Pike,Julian Pike,father,,-42.67151641845703,-57.320770263671875
+Morena Baccarin,Vera Setta,mother,,-49.090885162353516,-59.295616149902344
+Morena Baccarin,Fernando Baccarin,father,,-26.67432975769043,-55.235164642333984
+Rufus Sewell,Jo Sewell,mother,,-37.78014373779297,-57.262821197509766
+Rufus Sewell,Bill Sewell,father,,-37.20815658569336,-55.990074157714844
+Natalie Portman,Shelley Stevens Hershlag,mother,Natalie Portman,-52.21529769897461,-71.04359436035156
+Natalie Portman,Avner Hershlag,father,Natalie Portman,-38.490699768066406,-48.9019775390625
+Isabela Merced,Katherine Merced,mother,,-41.86165237426758,-58.82634735107422
+Isabela Merced,Patrick Moner,father,,-48.807952880859375,-74.42987060546875
+Cate Blanchett,June Blanchett,mother,,-33.36943435668945,-56.47359085083008
+Cate Blanchett,"Robert DeWitt Blanchett, Jr.",father,Cate Blanchett,-22.53742218017578,-23.296615600585938
+Patricia Arquette,Brenda Denaut,mother,,-50.237586975097656,-69.15833282470703
+Patricia Arquette,Lewis Arquette,father,Patricia Arquette,-26.75101089477539,-38.46613311767578
+Sara Ramirez,Luisa Vargas,mother,,-33.820430755615234,-45.85161590576172
+Sara Ramirez,Luis A. Ramirez,father,,-33.10783386230469,-44.94922637939453
+Emma Roberts,Kelly Cunningham,mother,Emma Roberts,-32.6353759765625,-47.972320556640625
+Emma Roberts,Eric Roberts,father,Emma Roberts,-32.567161560058594,-46.43229675292969
+Natalia Tena,Maria Tena,mother,,-23.946901321411133,-44.84541320800781
+Natalia Tena,Jesús Andrew Tena,father,,-33.26102828979492,-41.35566711425781
+Jessica Brown Findlay,Beverley Findlay,mother,,-20.428621292114258,-47.28268051147461
+Jessica Brown Findlay,Christopher Findlay,father,,-26.707517623901367,-49.74309158325195
+Elsa Pataky,Cristina Pataky Medianu,mother,,-22.56659507751465,-32.60585403442383
+Elsa Pataky,José Francisco Lafuente,father,,-32.340301513671875,-41.88412094116211
+Carla Gugino,Carol Gugino,mother,,-17.658966064453125,-37.560997009277344
+Carla Gugino,Carl Gugino,father,,-20.133853912353516,-45.86845397949219
+Sofia Boutella,Architect Safy Boutella,mother,Sofia Boutella,-38.41773223876953,-57.462921142578125
+Sofia Boutella,Safia Boutella,father,,-29.375755310058594,-46.27772521972656
+Lily James,Nina James,mother,,-34.82159423828125,-53.54322814941406
+Lily James,Jamie Thomson,father,,-34.306068420410156,-52.55455780029297
+Raegan Revord,Holly Revord,mother,,-29.991151809692383,-55.14043426513672
+Mackenzie Davis,Lotte Davis,mother,,-30.010269165039062,-50.29734420776367
+Mackenzie Davis,John Davis,father,,-33.607078552246094,-48.57835388183594
+Linda Cardellini,Lorraine Cardellini,mother,Linda Cardellini,-17.590341567993164,-36.60248947143555
+Linda Cardellini,Wayne David Cardellini,father,Linda Cardellini,-27.052915573120117,-48.78170394897461
+Bruce Willis,Marlene Willis,mother,Bruce Willis,-31.002344131469727,-56.801048278808594
+Bruce Willis,David Willis,father,,-33.37123107910156,-52.660919189453125
+Danna Paola,Patricia Munguia,mother,,-30.02426528930664,-40.762611389160156
+Danna Paola,Juan José Rivera Arellano,father,,-25.023475646972656,-28.15785789489746
+Melissa McCarthy,Sandra McCarthy,mother,,-31.755081176757812,-51.57838439941406
+Melissa McCarthy,Michael McCarthy,father,,-32.38616943359375,-49.81468200683594
+Amy Adams,Kathryn Adams,mother,Amy Adams,-34.03881072998047,-50.52171325683594
+Amy Adams,Richard Kent Adams,father,,-43.7052001953125,-57.04593276977539
+Chris Evans,Lisa Evans,mother,,-33.60124969482422,-50.28119659423828
+Chris Evans,Bob Evans,father,,-31.56244659423828,-54.78173065185547
+Taron Egerton,Christine Egerton,mother,,-23.25784683227539,-46.68877410888672
+Rachel McAdams,Sandra McAdams,mother,,-16.18128776550293,-38.49474334716797
+Rachel McAdams,Lance McAdams,father,,-20.85146141052246,-41.781192779541016
+Rick Hoffman,Gail Hoffman,mother,,-41.11236572265625,-55.542335510253906
+Rick Hoffman,Charlie Hoffman,father,,-42.68254852294922,-53.91070556640625
+Sofia Coppola,Eleanor Coppola,mother,Sofia Coppola,-25.084959030151367,-35.8799934387207
+Sofia Coppola,Francis Ford Coppola,father,Sofia Coppola,-22.151229858398438,-27.69686508178711
+Anne Hathaway,Kate McCauley Hathaway,mother,Anne Hathaway,-15.894033432006836,-23.690053939819336
+Anne Hathaway,Gerald Hathaway,father,Anne Hathaway,-21.409042358398438,-46.188011169433594
+Sam Heughan,Chrissie Heughan,mother,Sam Heughan,-8.084551811218262,-19.79027557373047
+Al Pacino,Rose Gerard Pacino,mother,Al Pacino,-34.40048599243164,-59.21376037597656
+Al Pacino,Salvatore Pacino,father,Al Pacino,-21.901485443115234,-49.24407958984375
+Jackie Sandler,Judy Sandler,mother,,-26.951488494873047,-47.64691925048828
+Jackie Sandler,Joseph Titone,father,,-39.12202072143555,-58.38178253173828
+Sienna Guillory,Isa Guillory,mother,,-30.81308364868164,-52.464534759521484
+Sienna Guillory,Isaac Guillory,father,,-29.39333724975586,-45.193634033203125
+Mía Maestro,Carlos Maestro,father,,-28.051490783691406,-48.648948669433594
+Paul Dano,Gladys Dano,mother,,-28.27501678466797,-48.8088264465332
+Paul Dano,Paul Dano Sr.,father,Paul Dano,-20.16361427307129,-47.928680419921875
+Minka Kelly,Maureen Dumont Kelly,mother,,-34.03382873535156,-51.6845817565918
+Minka Kelly,Rick Dufay,father,Minka Kelly,-35.15955352783203,-46.71451950073242
+Michelle Pfeiffer,Donna Pfeiffer,mother,,-14.524405479431152,-38.244083404541016
+Michelle Pfeiffer,Richard Pfeiffer,father,,-13.463407516479492,-35.5181770324707
+Ben Barnes,Tricia Barnes,mother,,-38.66007614135742,-51.60042190551758
+Ben Barnes,Thomas Barnes,father,,-35.21461868286133,-51.03740692138672
+Sam Claflin,Sue Claflin,mother,,-19.290016174316406,-44.08251953125
+Sam Claflin,Mark Claflin,father,,-18.414894104003906,-38.596797943115234
+Jim Caviezel,Maggie Caviezel,mother,,-20.75613784790039,-45.0230712890625
+Jim Caviezel,James Caviezel Sr.,father,Jim Caviezel,-10.287721633911133,-35.68659973144531
+Iliza Shlesinger,Ellen Shlesinger,mother,,-18.572269439697266,-37.147056579589844
+Iliza Shlesinger,Fred Shlesinger,father,,-19.86932945251465,-38.79023361206055
+Tracy Pollan,Corky Pollan,mother,,-31.580589294433594,-45.896488189697266
+Tracy Pollan,Stephen M. Pollan,father,Tracy Pollan,-31.547208786010742,-43.70623016357422
+Daniel Kaluuya,Damalie Namusoke,mother,,-32.86581802368164,-47.56761932373047
+Bradley Cooper,Gloria Campano,mother,Bradley Cooper,-26.675039291381836,-47.46293258666992
+Bradley Cooper,Charles Cooper,father,Bradley Cooper,-32.2198486328125,-50.91819763183594
+Adrianne Palicki,Nancy Palicki,mother,Adrianne Palicki,-16.93266487121582,-32.402713775634766
+Adrianne Palicki,Jeffrey Palicki,father,,-18.784399032592773,-34.01786422729492
+Katheryn Winnick,Roman Winnick,mother,,-22.955224990844727,-47.1081428527832
+Katheryn Winnick,Roman Winnick,father,,-21.559417724609375,-47.1081428527832
+Jensen Ackles,Donna Joan Shaffer-Ackles,mother,Jensen Ackles,-27.958391189575195,-30.368896484375
+Jensen Ackles,Alan Roger Ackles,father,Jensen Ackles,-35.353919982910156,-56.118186950683594
+Steve Zahn,Carleton Edward Zahn,mother,,-36.26361846923828,-53.75663375854492
+Steve Zahn,Carleton Edward Zahn,father,,-33.380855560302734,-53.75663757324219
+Amber Heard,Paige Parsons,mother,,-33.0063591003418,-56.320674896240234
+Amber Heard,David Heard,father,Amber Heard,-33.92472839355469,-53.683555603027344
+Luke Macfarlane,Penny Macfarlane,mother,,-21.762781143188477,-39.219749450683594
+Luke Macfarlane,Thomas Macfarlane,father,,-20.40336799621582,-34.539100646972656
+Rashida Jones,Peggy Lipton,mother,Rashida Jones,-29.10828399658203,-38.78117370605469
+Rashida Jones,Quincy Jones,father,Rashida Jones,-34.66090774536133,-46.62847900390625
+Alicia Vikander,Maria Fahl Vikander,mother,Alicia Vikander,-24.33598518371582,-45.72294235229492
+Alicia Vikander,Svante Vikander,father,Alicia Vikander,-20.77875518798828,-49.678550720214844
+Alexandra Billings,Gail Billings,mother,,-29.081222534179688,-44.771759033203125
+Sandra Bullock,Helga Mathilde Meyer,mother,Sandra Bullock,-23.993572235107422,-43.81440353393555
+Sandra Bullock,John W. Bullock,father,Sandra Bullock,-21.011106491088867,-38.3848762512207
+Abbey Lee,Peter Kershaw,father,,-41.362464904785156,-49.11565399169922
+Christa Miller,Bonnie Trompeter,mother,,-38.64360427856445,-45.5716438293457
+Christa Miller,Chuck Miller,father,,-38.81073760986328,-54.19682312011719
+Lukas Haas,Emily Tracy,mother,,-29.394695281982422,-57.09812545776367
+Lukas Haas,Berthold Haas,father,,-22.432689666748047,-30.09259033203125
+Javier Bardem,Pilar Bardem,mother,Javier Bardem,-19.40882682800293,-42.40018844604492
+Javier Bardem,Carlos Encinas Bardem,father,,-29.202220916748047,-48.258277893066406
+Sasha Lane,Judith Lane,mother,,-44.05098342895508,-55.33709716796875
+Rupert Friend,Caroline Friend,mother,,-37.446407318115234,-58.229393005371094
+Rupert Friend,David Oxton Friend,father,,-38.875099182128906,-61.75832748413086
+Ashley Johnson,Nancy Johnson,mother,,-37.04973602294922,-46.126792907714844
+Ashley Johnson,Cliff Johnson,father,,-39.878536224365234,-51.391056060791016
+Priyanka Chopra Jonas,Madhu Chopra,mother,Priyanka Chopra Jonas,-1.8924460411071777,-15.31863021850586
+Priyanka Chopra Jonas,Ashok Chopra,father,,-3.1836884021759033,-16.2598934173584
+Blake Lively,Elaine Lively,mother,Blake Lively,-22.88050651550293,-48.39503479003906
+Blake Lively,Ernie Lively,father,Blake Lively,-24.244909286499023,-41.20036315917969
+Vanessa Ray,Valerie Liptak,mother,,-41.099037170410156,-46.83401870727539
+Vanessa Ray,James Lipton,father,,-38.788002014160156,-40.27739334106445
+Emma Watson,Jacqueline Luesby,mother,Emma Watson,-20.48858070373535,-41.907676696777344
+Emma Watson,Chris Watson,father,,-32.83564758300781,-47.2851448059082
+Karl Urban,Joyce Urban,mother,,-38.22265625,-59.472259521484375
+Karl Urban,Jurgen Urban,father,,-39.535560607910156,-59.44694900512695
+Josh Lucas,Michele LeFevre,mother,,-38.14126205444336,-46.182708740234375
+Josh Lucas,Don Maurer,father,,-50.08230972290039,-57.64731216430664
+Angelina Jolie,Marcheline Bertrand,mother,Angelina Jolie,-12.051538467407227,-31.684404373168945
+Angelina Jolie,Jon Voight,father,Angelina Jolie,-16.928403854370117,-30.993032455444336
+Carolina Miranda,Martha Carrillo,mother,,-47.49189758300781,-55.255943298339844
+Joey King,Terry King,mother,,-37.115028381347656,-53.4023323059082
+Joey King,Terry King,father,,-36.649723052978516,-53.40232849121094
+Gillian Jacobs,Marta Jacobs,mother,,-28.7412109375,-53.78141403198242
+Gillian Jacobs,William F. Jacobs Jr.,father,,-27.070158004760742,-47.46278381347656
+Andrea Riseborough,Isobel Riseborough,mother,,-25.09638214111328,-51.527137756347656
+Andrea Riseborough,George Riseborough,father,,-24.693220138549805,-49.25288391113281
+Clancy Brown,Joyce Helen Eldridge,mother,,-46.62965393066406,-58.66615676879883
+Clancy Brown,Bud Brown,father,,-41.221961975097656,-57.957176208496094
+Jennifer Love Hewitt,Patricia Mae Hewitt,mother,Jennifer Love Hewitt,-21.654821395874023,-45.45336151123047
+Jennifer Love Hewitt,Herbert Daniel Hewitt,father,,-25.964134216308594,-53.14413070678711
+Luna Lauren Velez,Andrés Vélez,father,,-26.89336585998535,-41.73712921142578
+Charlie Day,Mary Day,mother,,-33.671546936035156,-55.17169952392578
+Charlie Day,Dr. Thomas Charles Day,father,,-38.4766845703125,-52.58943176269531
+Dakota Fanning,Heather Joy Arrington,mother,,-39.01874542236328,-49.02193832397461
+Dakota Fanning,Steven Fanning,father,Dakota Fanning,-22.102333068847656,-42.21124267578125
+Alexander Ludwig,Sharlene Martin,mother,,-39.53253173828125,-52.07658767700195
+Alexander Ludwig,Harald Ludwig,father,,-36.78512954711914,-57.03626251220703
+Ariana Greenblatt,Sol Greenblatt,mother,,-22.584609985351562,-29.805099487304688
+Ariana Greenblatt,Shon Greenblatt,father,,-13.550567626953125,-15.985305786132812
+Liam Neeson,Bernard Neeson,father,Liam Neeson,-23.614940643310547,-47.613182067871094
+Jennifer Aniston,Nancy Dow,mother,Jennifer Aniston,-27.94876480102539,-52.75521469116211
+Jennifer Aniston,John Aniston,father,Jennifer Aniston,-19.42200469970703,-39.25751876831055
+Donnie Yen,Bow-sim Mark,mother,Donnie Yen,-43.699134826660156,-65.72315979003906
+Donnie Yen,Klyster Yen,father,,-39.910430908203125,-61.16554260253906
+Greta Gerwig,Christine Gerwig,mother,Greta Gerwig,-22.957847595214844,-42.322998046875
+Greta Gerwig,Gordon Gerwig,father,Greta Gerwig,-24.086044311523438,-45.001747131347656
+Michael J. Fox,Phyllis Piper,mother,,-20.021148681640625,-47.47917938232422
+Michael J. Fox,William Fox,father,,-33.66259002685547,-53.823326110839844
+Jon Bernthal,Joan Lurie Bernthal,mother,Jon Bernthal,-31.136878967285156,-51.19396209716797
+Jon Bernthal,Eric Bernthal,father,Jon Bernthal,-36.1627311706543,-52.97872543334961
+Jack Quaid,Meg Ryan,mother,Jack Quaid,-38.255428314208984,-59.963436126708984
+Jack Quaid,Dennis Quaid,father,Jack Quaid,-37.93721008300781,-43.74961853027344
+Pete Davidson,Amy Waters Davidson,mother,Pete Davidson,-44.043121337890625,-64.6628646850586
+Pete Davidson,Scott Davidson,father,Pete Davidson,-40.06218719482422,-60.95772933959961
+Will Smith,Caroline Bright,mother,,-40.301483154296875,-59.786842346191406
+Will Smith,Willard Carroll Smith Sr.,father,Will Smith,-24.84197235107422,-52.98699951171875
+Léa Seydoux,Valérie Schlumberger,mother,Léa Seydoux,-18.06220245361328,-9.737957954406738
+Léa Seydoux,Henri Seydoux,father,Léa Seydoux,-16.55841827392578,-25.084245681762695
+Zachary Levi,Susan Pugh,mother,,-40.112022399902344,-54.76045608520508
+Zachary Levi,Darrell Pugh,father,,-34.92266845703125,-50.07357406616211
+Val Kilmer,Gladys Swanette Ekstadt,mother,,-50.82963180541992,-70.41867065429688
+Val Kilmer,Eugene Kilmer,father,,-37.233848571777344,-58.55459213256836
+Olivia Wilde,Leslie Cockburn,mother,Olivia Wilde,-39.90193176269531,-49.703819274902344
+Olivia Wilde,Andrew Cockburn,father,Olivia Wilde,-43.52931213378906,-50.47704315185547
+Meagan Good,Tyra Wardlow-Doyle,mother,,-41.499935150146484,-48.652015686035156
+Eliza Dushku,Judith Rasmussen,mother,,-29.013980865478516,-45.74209213256836
+Eliza Dushku,Philip R. Dushku,father,Eliza Dushku,-13.8485107421875,-30.503021240234375
+Rachel Weisz,Edith Ruth Weisz,mother,,-28.399303436279297,-52.15470886230469
+Rachel Weisz,George Weisz,father,Rachel Weisz,-33.82807922363281,-54.68723678588867
+Joaquin Phoenix,Arlyn Phoenix,mother,Joaquin Phoenix,-23.35163116455078,-55.99665832519531
+Joaquin Phoenix,John Lee Bottom,father,Joaquin Phoenix,-24.35086441040039,-51.77632141113281
+Charlie Hunnam,Jane Bell,mother,,-32.37109375,-67.62203979492188
+Charlie Hunnam,William Hunnam,father,Charlie Hunnam,-32.460445404052734,-52.59534454345703
+Sigourney Weaver,Elizabeth Inglis,mother,Sigourney Weaver,-30.610607147216797,-45.21480178833008
+Sigourney Weaver,Sylvester L. Weaver Jr.,father,Sigourney Weaver,-26.167085647583008,-51.141014099121094
+Seth Rogen,Sandy Rogen,mother,Seth Rogen,-33.14667892456055,-53.76848602294922
+Seth Rogen,Mark Rogen,father,,-31.13993263244629,-49.73185729980469
+Elle Fanning,Heather Joy Arrington,mother,,-37.25091552734375,-50.9383544921875
+Elle Fanning,Steven Fanning,father,,-33.84794616699219,-53.96075439453125
+Jon Hamm,Deborah Hamm,mother,,-48.59090805053711,-61.90291213989258
+Jon Hamm,Daniel Hamm,father,,-49.21858215332031,-67.91483306884766
+David Tennant,Helen McLeod,mother,,-38.053466796875,-61.180294036865234
+David Tennant,Sandy McDonald,father,,-37.376976013183594,-63.19755554199219
+Maisie Williams,Hilary Williams,mother,,-37.408660888671875,-52.067237854003906
+Maisie Williams,Hilary Francis Williams,father,,-39.210845947265625,-52.28936004638672
+Christina Ricci,Sarah Ricci,mother,,-35.32676315307617,-54.43830108642578
+Christina Ricci,Ralph Ricci,father,,-34.530635833740234,-58.153282165527344
+Lily Rabe,Jill Clayburgh,mother,Lily Rabe,-44.735443115234375,-54.08474349975586
+Lily Rabe,David Rabe,father,Lily Rabe,-36.08448028564453,-53.29340362548828
+Kate Beckinsale,Judy Loe,mother,Kate Beckinsale,-23.404266357421875,-45.69118118286133
+Kate Beckinsale,Richard Beckinsale,father,Kate Beckinsale,-19.582059860229492,-38.93791198730469
+Tia Carrere,Audrey Duhinio Janairo,mother,,-45.236629486083984,-50.00101852416992
+Tia Carrere,Alexander Janairo,father,,-40.064537048339844,-61.812015533447266
+Abigail Breslin,Kim Breslin,mother,Abigail Breslin,-15.507665634155273,-44.21555709838867
+Abigail Breslin,Michael Breslin,father,Abigail Breslin,-13.998655319213867,-35.785892486572266
+Natalie Morales,Penelope Morales,mother,,-41.08624267578125,-57.98674011230469
+Natalie Morales,"Lieutenant Colonel Mario Morales, Jr.",father,,-37.49261474609375,-53.04899597167969
+Jodie Whittaker,Adrian Whittaker,father,,-16.16759490966797,-37.9159049987793
+Laura Linney,Miriam Anderson Linney,mother,Laura Linney,-36.00486755371094,-58.169498443603516
+Laura Linney,Romulus Linney,father,Laura Linney,-33.426055908203125,-45.84323501586914
+Odessa A’zion,Pamela Adlon,mother,,-38.94386291503906,-49.240692138671875
+Odessa A’zion,Pamela Adlon,father,,-42.86981964111328,-49.24069595336914
+Pier Angeli,Enrichetta Romiti,mother,,-40.42876434326172,-62.277713775634766
+Pier Angeli,Enrico Angeli,father,,-32.7851448059082,-55.93574142456055
+Michael Biehn,Marcia Biehn,mother,,-21.24459457397461,-40.395442962646484
+Michael Biehn,Don Biehn,father,,-24.500463485717773,-47.250762939453125
+Sarah Shahi,Mah Monir Soroush Azar,mother,,-44.950927734375,-31.20147705078125
+Sarah Shahi,Abbas Jahansouz Shahi,father,,-35.67763900756836,-49.77153778076172
+Sean Patrick Flanery,Genie Flanery,mother,,-17.91888427734375,-39.97686004638672
+Sean Patrick Flanery,Paul Flanery,father,,-18.972829818725586,-38.07615661621094
+Kaitlyn Dever,Kathy Dever,mother,,-25.39167594909668,-46.415836334228516
+Kaitlyn Dever,Tim Dever,father,,-25.287384033203125,-49.9836540222168
+Bruce Campbell,Joanne Louise Campbell,mother,,-44.13445281982422,-59.178932189941406
+Bruce Campbell,Charles Newton Campbell,father,,-45.77162170410156,-62.1051139831543
+Jason Isaacs,Sheila Isaacs,mother,,-36.27095031738281,-57.63219451904297
+Jason Isaacs,Eric Isaacs,father,,-36.70928955078125,-53.46434783935547
+Robin Williams,Laurie Williams,mother,,-43.46659469604492,-58.811004638671875
+Robin Williams,Robert Fitzgerald Williams,father,,-40.3253173828125,-56.434852600097656
+Lena Headey,Sue Headey,mother,,-24.267932891845703,-53.42338943481445
+Lena Headey,John Headey,father,Lena Headey,-20.988140106201172,-47.40837478637695
+Jay Baruchel,Robyne Baruchel,mother,Jay Baruchel,-26.084230422973633,-53.69510269165039
+Jay Baruchel,Serge Baruchel,father,Jay Baruchel,-26.797006607055664,-56.036678314208984
+Brittany Snow,Cinda Snow,mother,,-40.071937561035156,-59.22719955444336
+Brittany Snow,John Snow,father,,-41.0044059753418,-62.27330017089844
+Luna Blaise,Angelyna Martinez,mother,,-41.61553955078125,-62.95192337036133
+Luna Blaise,Paul Boyd,father,,-43.64139938354492,-69.75727844238281
+Jacob Elordi,Melissa Elordi,mother,Jacob Elordi,-16.193775177001953,-32.78533172607422
+Jacob Elordi,John Elordi,father,,-14.790990829467773,-35.02793884277344
+Bailee Madison,Patricia Riley,mother,,-25.579387664794922,-44.47775650024414
+Bailee Madison,Michael Shawn Riley,father,,-32.771385192871094,-49.73713302612305
+Adam Driver,Nancy Wright,mother,,-33.57424545288086,-48.83723068237305
+Adam Driver,Joe Douglas Driver,father,,-31.12608528137207,-54.13408660888672
+Alison Brie,Joanne Brenner,mother,,-24.379589080810547,-44.652687072753906
+Alison Brie,Charles Schermerhorn,father,,-27.103408813476562,-34.023555755615234
+Toby Kebbell,Michelle Mathers,mother,,-28.537012100219727,-45.79682159423828
+Toby Kebbell,Robert Kebbell,father,,-16.252105712890625,-26.654245376586914
+Will Arnett,Edith Alexandra Palk,mother,,-33.993404388427734,-45.399940490722656
+Will Arnett,Emerson James Arnett,father,,-29.390615463256836,-44.73291015625
+Tessa Thompson,Marc Anthony Thompson,mother,Tessa Thompson,-29.368831634521484,-48.78218460083008
+Tessa Thompson,Marc Anthony Thompson,father,Tessa Thompson,-27.06041717529297,-48.78218460083008
+Jamie Dornan,Lorna Dornan,mother,Jamie Dornan,-7.930488109588623,-29.56287956237793
+Jamie Dornan,Jim Dornan,father,Jamie Dornan,-12.899116516113281,-33.37361145019531
+Stephen Lang,Theresa Volmer,mother,,-38.47824478149414,-47.816734313964844
+Stephen Lang,Eugene Lang,father,,-38.73088836669922,-50.25736999511719
+James Spader,Jean Fraser Spader,mother,James Spader,-27.080852508544922,-47.57420349121094
+James Spader,Stoddard Greenwood Spader,father,James Spader,-27.263139724731445,-23.02225685119629
+Nicholas Braun,Elizabeth Lyle Braun,mother,,-36.87451171875,-52.53415298461914
+Nicholas Braun,Craig Braun,father,,-38.98166275024414,-55.36962890625
+Hugh Jackman,Grace McNeil,mother,,-28.33162498474121,-50.19151306152344
+Hugh Jackman,Christopher John Jackman,father,,-21.168968200683594,-46.5156135559082
+Daniel Day-Lewis,Jill Balcon,mother,Daniel Day-Lewis,-31.8192138671875,-48.653778076171875
+Daniel Day-Lewis,Cecil Day-Lewis,father,Daniel Day-Lewis,-19.551677703857422,-36.33268356323242
+Keira Knightley,Sharman Macdonald,mother,Keira Knightley,-18.051860809326172,-26.295564651489258
+Keira Knightley,Will Knightley,father,Keira Knightley,-20.229257583618164,-39.092403411865234
+Kristen Bell,Lorelei Bell,mother,,-38.13853454589844,-56.394474029541016
+Kristen Bell,Tom Bell,father,,-34.89061737060547,-58.56370544433594
+Jim Carrey,Kathleen Carrey,mother,Jim Carrey,-24.726726531982422,-48.19501495361328
+Jim Carrey,Percy Carrey,father,Jim Carrey,-29.484600067138672,-53.81147003173828
+Gary Oldman,Kathleen Oldman,mother,Gary Oldman,-22.35211181640625,-51.102088928222656
+Gary Oldman,Leonard Bertram Oldman,father,Gary Oldman,-31.050556182861328,-53.86868667602539
+Jodie Comer,Donna Comer,mother,,-22.83506965637207,-45.4013671875
+Jodie Comer,Don Comer,father,,-23.515193939208984,-47.629302978515625
+Carrie Preston,Linda Barbara Preston,mother,,-46.43846893310547,-62.41056823730469
+Mariette Hartley,Polly Cornwell,mother,,-40.8018798828125,-59.23250961303711
+Mariette Hartley,Paul Hembree Hartley,father,,-25.74889373779297,-32.75157928466797
+Stephen Dorff,Nancy Dorff,mother,,-25.50018310546875,-50.00145721435547
+Stephen Dorff,Steve Dorff,father,Stephen Dorff,-25.26824951171875,-45.322059631347656
+Ralph Fiennes,Jennifer Lash,mother,Ralph Fiennes,-29.856786727905273,-57.79426574707031
+Ralph Fiennes,Mark Fiennes,father,Ralph Fiennes,-24.976463317871094,-48.396881103515625
+Sean Connery,Joseph Connery,father,Sean Connery,-23.9769287109375,-42.24009704589844
+Alice Eve,Sharon Maughan,mother,Alice Eve,-36.98686218261719,-38.89977264404297
+Alice Eve,Trevor Eve,father,Alice Eve,-37.499183654785156,-50.414634704589844
+Sam Elliott,Glynn Mamie Sparks,mother,,-45.7178955078125,-61.38346862792969
+Sam Elliott,Henry Nelson Elliott,father,,-42.51769256591797,-60.03169631958008
+Kirsten Dunst,Inez Rupprecht,mother,,-24.684967041015625,-29.82650375366211
+Kirsten Dunst,Klaus Dunst,father,,-22.12691879272461,-46.317996978759766
+Sasha Alexander,Sofija Kukavica,mother,,-42.25525665283203,-43.24286651611328
+Sasha Alexander,Slobodan Drobnjak,father,,-37.926055908203125,-34.78248596191406
+Liana Liberato,Rhondelle Liberato,mother,,-33.602413177490234,-40.470619201660156
+Liana Liberato,George Liberato,father,,-29.794734954833984,-47.84913635253906
+Jennette McCurdy,Debra McCurdy,mother,Jennette McCurdy,-19.105409622192383,-46.136844635009766
+Jennette McCurdy,Mark McCurdy,father,,-24.89666748046875,-49.828529357910156
+Harold Perrineau,Sylvia Perrineau,mother,Harold Perrineau,-20.142976760864258,-48.17778778076172
+Harold Perrineau,Harold Williams,father,,-25.421613693237305,-52.32339096069336
+Katy Mixon,Donna Mixon,mother,,-30.62794303894043,-50.71489334106445
+Katy Mixon,Fred Mixon,father,,-32.39207458496094,-55.18439483642578
+Jessica Chastain,Jerri Chastain,mother,Jessica Chastain,-16.10777473449707,-26.765043258666992
+Jessica Chastain,Michael Monasterio,father,,-24.327924728393555,-44.89263916015625
+Luke Grimes,Angie Barker,mother,,-40.837154388427734,-61.79164123535156
+Luke Grimes,Randy Grimes,father,,-29.234540939331055,-45.908966064453125
+Bryan Cranston,Audrey Peggy Sell,mother,,-32.20954132080078,-66.04595184326172
+Bryan Cranston,Joe Cranston,father,Bryan Cranston,-22.634098052978516,-49.04167556762695
+Robert Pattinson,Clare Pattinson,mother,Robert Pattinson,-20.2781925201416,-45.489234924316406
+Robert Pattinson,Richard Pattinson,father,Robert Pattinson,-19.54761505126953,-39.37771987915039
+Skyler Gisondo,Stacey Gisondo,mother,,-7.692424774169922,-23.643766403198242
+Skyler Gisondo,Stu Gisondo,father,,-10.544736862182617,-40.797760009765625
+Elizabeth Debicki,Piotr Debicki,father,Elizabeth Debicki,-12.209188461303711,-25.706607818603516
+Ke Huy Quan,Quan Y Huy,father,,-17.45952033996582,-47.64040756225586
+Emma Heming Willis,Zorina Heming,mother,,-32.707218170166016,-40.35103225708008
+Sophie Thatcher,Robert Thatcher,father,,-38.754947662353516,-53.3921012878418
+Zoe Perry,Laurie Metcalf,mother,Zoe Perry,-38.90214538574219,-33.90300750732422
+Zoe Perry,Jeff Perry,father,Zoe Perry,-43.47665023803711,-48.067108154296875
+Kate Capshaw,Beverly Sue Simon,mother,,-38.7629508972168,-57.208290100097656
+Kate Capshaw,Edwin Leon Nail,father,,-40.403961181640625,-66.58181762695312
+Kelly Preston,Linda Carlson,mother,,-32.76935577392578,-50.86619186401367
+Kelly Preston,Peter Palzis,father,,-41.370296478271484,-53.791542053222656
+Nathan Fillion,Cookie Fillion,mother,,-61.37765884399414,-82.83465576171875
+Nathan Fillion,Bob Fillion,father,,-57.740386962890625,-80.93463897705078
+Marisa Tomei,Addie Tomei,mother,Marisa Tomei,-41.257232666015625,-60.80660629272461
+Marisa Tomei,Gary A. Tomei,father,Marisa Tomei,-45.99918746948242,-64.5885009765625
+Olivia Cooke,Lindsy Wild,mother,,-65.35257720947266,-85.80693817138672
+Olivia Cooke,John Cooke,father,,-65.80430603027344,-80.39591979980469
+Bridget Regan,Mary Catherine Regan,mother,,-44.54041290283203,-55.439353942871094
+Bridget Regan,Jim Regan,father,,-46.60866165161133,-67.2140884399414
+Hope Davis,Joan Davis,mother,,-69.44821166992188,-82.26544952392578
+Hope Davis,William Davis,father,,-69.81439971923828,-80.59222412109375
+Gemma Arterton,Sally-Anne Heap,mother,,-40.189697265625,-63.28449249267578
+Gemma Arterton,Barry Arterton,father,Gemma Arterton,-35.69380187988281,-57.654300689697266
+Mads Mikkelsen,Bente Christiansen,mother,,-40.88768005371094,-57.496429443359375
+Mads Mikkelsen,Henning Mikkelsen,father,,-24.690858840942383,-45.544654846191406
+Yvonne Strahovski,Bozena Strahovski,mother,Yvonne Strahovski,-13.960897445678711,-26.25539779663086
+Yvonne Strahovski,Peter Strzechowski,father,Yvonne Strahovski,-35.384342193603516,-57.25360107421875
+Lance Reddick,Doris Reddick,mother,,-36.69915008544922,-57.843597412109375
+Anna Kendrick,Janice Kendrick,mother,,-61.81372833251953,-81.75603485107422
+Anna Kendrick,William Kendrick,father,,-61.23175811767578,-82.38894653320312
+Saoirse Ronan,Monica Ronan,mother,Saoirse Ronan,-41.40703582763672,-58.54353332519531
+Saoirse Ronan,Paul Ronan,father,Saoirse Ronan,-15.912243843078613,-39.24775314331055
+Adrien Brody,Sylvia Plachy,mother,Adrien Brody,-24.332006454467773,-30.411300659179688
+Adrien Brody,Elliot Brody,father,,-20.85845375061035,-42.673484802246094
+Joel Edgerton,Marianne Edgerton,mother,,-7.859858989715576,-22.278873443603516
+Joel Edgerton,Michael Edgerton,father,,-13.739599227905273,-27.106508255004883
+Jamie Lee Curtis,Janet Leigh,mother,Jamie Lee Curtis,-19.735313415527344,-37.92449188232422
+Jamie Lee Curtis,Tony Curtis,father,Jamie Lee Curtis,-23.468372344970703,-37.129207611083984
+Bella Ramsey,Alex Ramsey,father,,-38.39371871948242,-54.221797943115234
+Jack Nicholson,June Frances Nicholson,mother,Jack Nicholson,-28.106294631958008,-47.78228759765625
+Jack Nicholson,Donald Furcillo,father,Jack Nicholson,-38.32391357421875,-47.25305938720703
+Michelle Yeoh,Janet Yeoh,mother,,-23.33782386779785,-39.77910232543945
+Michelle Yeoh,Yeoh Kian Teik,father,,-18.214466094970703,-19.27385711669922
+Tom Pelphrey,Richard Pelphrey,father,,-16.76233673095703,-26.247203826904297
+Anthony Ramos,Mildred Ramos,mother,,-29.576393127441406,-50.35497283935547
+Jane Russell,Geraldine Jacobi,mother,,-39.232364654541016,-47.414913177490234
+Jane Russell,Roy William Russell,father,Jane Russell,-33.30692672729492,-49.115570068359375
+Maria Bello,Kathy Bello,mother,,-25.9084415435791,-43.63347625732422
+Maria Bello,Joe Bello,father,,-25.88677978515625,-41.578311920166016
+Kirk Fox,Joyce Fox,mother,,-40.83324432373047,-58.228633880615234
+Kirk Fox,Gardner Fox,father,,-44.815399169921875,-56.72672653198242
+Britt Robertson,Beverly Robertson,mother,,-37.411746978759766,-55.490135192871094
+Britt Robertson,Ryan Robertson,father,,-36.18980407714844,-54.01536560058594
+Laura Benanti,Linda Wonneberger,mother,,-41.3219108581543,-57.4729118347168
+Laura Benanti,Martin Vidnovic,father,Laura Benanti,-40.0334358215332,-53.240928649902344
+Harry Melling,Joanne Melling,mother,,-27.36223793029785,-48.85646438598633
+Harry Melling,Paul Melling,father,,-27.256607055664062,-46.671146392822266
+Isabella Rossellini,Ingrid Bergman,mother,Isabella Rossellini,-7.7220659255981445,-18.05394172668457
+Isabella Rossellini,Roberto Rossellini,father,Isabella Rossellini,-7.105709552764893,-21.87857437133789
+Gina Torres,Rebecca Torres,mother,,-38.82457733154297,-54.41535949707031
+Gina Torres,Richard Torres,father,,-37.86714172363281,-52.938140869140625
+Bella Thorne,Tamara Thorne,mother,,-25.96171760559082,-44.03782653808594
+Julia Roberts,Betty Lou Bredemus,mother,Julia Roberts,-18.746063232421875,-35.956138610839844
+Julia Roberts,Walter Grady Roberts,father,Julia Roberts,-30.001602172851562,-49.98373031616211
+Bob Odenkirk,Barbara Odenkirk,mother,Bob Odenkirk,-4.695878982543945,-24.28179931640625
+Bob Odenkirk,Walter Odenkirk,father,Bob Odenkirk,-7.0820698738098145,-20.84542465209961
+Woody Harrelson,Diane Lou Oswald,mother,,-27.087831497192383,-60.97175598144531
+Woody Harrelson,Charles Harrelson,father,Woody Harrelson,-14.771418571472168,-35.1512565612793
+Ridley Scott,Elizabeth Jean Scott,mother,,-43.47561264038086,-61.917144775390625
+Ridley Scott,Francis Percy Scott,father,,-42.6156005859375,-66.30633544921875
+Amanda Schull,Susan Schull,mother,,-26.928709030151367,-51.353118896484375
+Robert Carlyle,Elizabeth McDonald,mother,,-23.046043395996094,-46.720035552978516
+Robert Carlyle,Joseph Carlyle,father,,-21.292055130004883,-35.610416412353516
+Edward Norton,Lydia Robinson Norton,mother,,-31.647071838378906,-55.04198455810547
+Edward Norton,Edward Mower Norton Jr.,father,Edward Norton,-19.97924041748047,-44.66508483886719
+Bel Powley,Janis Jaffa,mother,,-22.218706130981445,-43.382022857666016
+Bel Powley,Mark Powley,father,,-20.570655822753906,-46.7221794128418
+Bill Paxton,Mary Lou Paxton,mother,,-17.97561264038086,-33.832523345947266
+Bill Paxton,John Lane Paxton,father,,-23.54461669921875,-33.16682815551758
+Dakota Johnson,Melanie Griffith,mother,Dakota Johnson,-18.987783432006836,-28.781131744384766
+Dakota Johnson,Don Johnson,father,Dakota Johnson,-22.029014587402344,-35.72583770751953
+Anna Torv,Susan Torv,mother,Anna Torv,-19.824054718017578,-47.754459381103516
+Anna Torv,Hans Torv,father,,-22.55101776123047,-47.412498474121094
+Benjamin Walker,Jeannine Walker,mother,,-21.30582618713379,-36.91108703613281
+Benjamin Walker,Greg Walker,father,,-27.357009887695312,-43.14738464355469
+Hunter Schafer,Katy Schafer,mother,,-23.5174503326416,-42.836700439453125
+Hunter Schafer,Mac Schafer,father,,-23.93630599975586,-47.872406005859375
+Nicole Ari Parker,Susan Parker,mother,,-24.767210006713867,-45.72847366333008
+Nicole Ari Parker,Donald Parker,father,,-25.507789611816406,-48.4988899230957
+Errol Flynn,Marelle Young,mother,,-28.735355377197266,-34.06246566772461
+Errol Flynn,Theodore Thomson Flynn,father,Errol Flynn,-30.8997745513916,-54.04500961303711
+Annie Wersching,Sandy Wersching,mother,,-19.45980453491211,-42.33490753173828
+Annie Wersching,Frank Wersching Jr.,father,Annie Wersching,-14.327817916870117,-43.74675369262695
+Bill Hader,Sherri Renee Hader,mother,,-27.891136169433594,-44.58491516113281
+Bill Hader,William Thomas Hader Sr.,father,Bill Hader,-23.642534255981445,-50.668766021728516
+Kaya Scodelario,Katia Scodelario,mother,,-7.816556930541992,-19.003921508789062
+Kaya Scodelario,Roger Humphrey,father,,-27.787630081176758,-47.52667236328125
+Sadie Frost,Mary Davidson,mother,,-35.76460266113281,-50.89990234375
+Sadie Frost,David Vaughan,father,,-35.52811813354492,-51.790523529052734
+Sadie Stanley,Matt Stanley,father,,-37.63982391357422,-53.4084587097168
+Christina Hendricks,Jackie Sue Raymond,mother,,-32.121273040771484,-57.893524169921875
+Christina Hendricks,Robert Hendricks,father,,-21.622602462768555,-41.76511764526367
+Colin Farrell,Rita Farrell,mother,,-32.516387939453125,-57.524139404296875
+Colin Farrell,Eamon Farrell,father,,-31.8172664642334,-54.220191955566406
+Michael B. Jordan,Donna Jordan,mother,,-21.848369598388672,-50.03477096557617
+Michael B. Jordan,Michael A. Jordan,father,,-16.3066349029541,-37.872314453125
+John Travolta,Helen Travolta,mother,John Travolta,-20.52233123779297,-45.214569091796875
+John Travolta,Salvatore Travolta,father,John Travolta,-20.258888244628906,-44.86783981323242
+Mamoudou Athie,El Hadj Athie,father,,-13.74913215637207,-33.676734924316406
+Adria Arjona,Leslie Torres,mother,,-28.272449493408203,-52.5400390625
+Adria Arjona,Ricardo Arjona,father,Adria Arjona,-17.875865936279297,-26.836498260498047
+Miles Teller,Merry Flowers,mother,,-69.37798309326172,-100.13162994384766
+Miles Teller,Mike Teller,father,,-64.0318603515625,-87.41432189941406
+Annie Potts,Dorothy Harris Potts,mother,,-76.22502136230469,-91.91836547851562
+Annie Potts,Powell Grisette Potts,father,,-73.01628112792969,-90.23951721191406
+Leslie Bibb,Betty Blakemore Sulzbach,mother,,-71.99031066894531,-84.57840728759766
+Steve Carell,Harriet Theresa Carell,mother,Steve Carell,-66.13844299316406,-85.71503448486328
+Steve Carell,Edwin A. Carell,father,Steve Carell,-63.906211853027344,-88.69502258300781
+Katherine Heigl,Nancy Heigl,mother,Katherine Heigl,-54.88702392578125,-77.203125
+Katherine Heigl,Paul Heigl,father,Katherine Heigl,-56.18783187866211,-80.44215393066406
+M. Night Shyamalan,Jayalakshmi Shyamalan,mother,M. Night Shyamalan,-10.303314208984375,-26.68993377685547
+M. Night Shyamalan,Nelliate C. Shyamalan,father,,-34.750160217285156,-28.119564056396484
+Sarah Jessica Parker,Barbara Parker,mother,,-62.26627731323242,-87.39722442626953
+Sarah Jessica Parker,Stephen Parker,father,,-66.32765197753906,-89.91720581054688
+Zooey Deschanel,Mary Jo Deschanel,mother,Zooey Deschanel,-35.32209014892578,-54.1153564453125
+Zooey Deschanel,Caleb Deschanel,father,Zooey Deschanel,-44.683895111083984,-64.14783477783203
+David Harbour,Kenneth Harbour,father,,-79.22537231445312,-99.09740447998047
+Molly C. Quinn,Dianne Quinn,mother,,-70.50093078613281,-92.02278900146484
+Molly C. Quinn,Tom Quinn,father,,-68.85230255126953,-90.17252349853516
+Cara Delevingne,Pandora Delevingne,mother,Cara Delevingne,-31.195690155029297,-60.07453155517578
+Cara Delevingne,Charles Delevingne,father,Cara Delevingne,-31.548465728759766,-54.11382293701172
+Andrew Garfield,Lynn Garfield,mother,,-20.836280822753906,-48.77335739135742
+Andrew Garfield,Richard Garfield,father,,-20.35773468017578,-38.35895919799805
+Daniel Radcliffe,Marcia Gresham,mother,Daniel Radcliffe,-17.60072898864746,-32.069366455078125
+Daniel Radcliffe,Alan Radcliffe,father,Daniel Radcliffe,-19.614479064941406,-43.03709411621094
+Julie Bowen,Suzanne Frey Bowen,mother,,-36.46308898925781,-57.00303268432617
+Julie Bowen,John Alexander Luetkemeyer Jr.,father,,-33.96510314941406,-17.274808883666992
+Diane Lane,Colleen Farrington,mother,Diane Lane,-33.64568328857422,-44.82723617553711
+Diane Lane,Burt Lane,father,,-36.481163024902344,-47.350807189941406
+Connie Nielsen,Laila Nielsen,mother,,-27.790874481201172,-49.42763137817383
+Connie Nielsen,Bent Nielsen,father,,-37.090576171875,-58.54688262939453
+Abbie Cornish,Shelley Cornish,mother,,-23.95893096923828,-42.09599685668945
+Abbie Cornish,Barry Cornish,father,,-23.961606979370117,-40.03240203857422
+Daniel Craig,Olivia Craig,mother,,-34.58782958984375,-55.193119049072266
+Daniel Craig,Tim Craig,father,,-33.67461395263672,-52.47172164916992
+Common,Dr. Mahalia Ann Hines,mother,,-49.34967041015625,-37.03018569946289
+Common,Lonnie Lynn Sr.,father,,-36.85490417480469,-45.11701965332031
+Danny McBride,Kathy Rudy,mother,,-34.27183532714844,-58.38447189331055
+Danny McBride,Jim McBride,father,,-24.444766998291016,-40.20085144042969
+Jake Johnson,Eve Johnson,mother,,-37.44696044921875,-48.46335983276367
+Jake Johnson,Ken Weinberger,father,,-47.49361038208008,-47.118812561035156
+Stanley Tucci,Joan Tucci,mother,Stanley Tucci,-33.88214111328125,-61.435367584228516
+Stanley Tucci,"Stanley Tucci, Sr.",father,Stanley Tucci,-20.67240333557129,-45.43003463745117
+Julia Stiles,Judith Newcomb Stiles,mother,Julia Stiles,-33.44663619995117,-55.569091796875
+Julia Stiles,John O'Hara,father,,-30.899246215820312,-50.04084777832031
+Paul Mescal,Dearbhla Mescal,mother,,-32.043861389160156,-57.494712829589844
+Charlie Murphy,Lillian Murphy,mother,,-41.9047966003418,-52.730186462402344
+Charlie Murphy,Charles Edward Murphy,father,,-41.47410583496094,-51.500823974609375
+Ethan Hawke,Leslie Hawke,mother,Ethan Hawke,-32.70452880859375,-55.574623107910156
+Ethan Hawke,James Steven Hawke,father,,-30.019372940063477,-47.617122650146484
+Jordana Brewster,Maria João Brewster,mother,,-23.118980407714844,-51.92809295654297
+Jordana Brewster,Alden Brewster,father,,-27.544452667236328,-47.96787643432617
+Helen Mirren,Kathleen Alexandrina Eva Matilda Rogers,mother,,-36.1287841796875,-42.57654571533203
+Helen Mirren,Vasily Petrovich Mironoff,father,Helen Mirren,-24.40243148803711,-28.501434326171875
+Virginia Gardner,Sarah Gardner,mother,,-45.53666305541992,-58.26350021362305
+Virginia Gardner,Chuck Gardner,father,,-48.0283203125,-61.85433578491211
+Suki Waterhouse,Elizabeth Waterhouse,mother,,-24.437959671020508,-46.61989974975586
+Suki Waterhouse,Norman Waterhouse,father,,-27.17709732055664,-49.288448333740234
+Lacey Chabert,Julie Chabert,mother,,-18.700252532958984,-41.158870697021484
+Lacey Chabert,Tony Chabert,father,,-20.416969299316406,-42.63939666748047
+Reese Witherspoon,Betty Reese,mother,Reese Witherspoon,-30.1563720703125,-51.56317138671875
+Reese Witherspoon,John Draper Witherspoon,father,Reese Witherspoon,-6.830152988433838,-22.743173599243164
+Gabriel Basso,Marcie Basso,mother,,-30.55154037475586,-48.95808792114258
+Gabriel Basso,Louis J. Basso,father,,-30.544336318969727,-45.94602966308594
+Olivia d'Abo,Maggie London,mother,,-30.06068229675293,-57.70433044433594
+Simon Pegg,Gillian Rosemary Smith,mother,,-25.56580924987793,-47.340553283691406
+Simon Pegg,John Beckingham,father,,-34.646812438964844,-52.43198013305664
+Jackie Chan,Lee-Lee Chan,mother,,-29.278339385986328,-54.91172409057617
+Jackie Chan,Charles Chan,father,Jackie Chan,-36.62236022949219,-52.222007751464844
+Zoey Deutch,Lea Thompson,mother,Zoey Deutch,-24.801109313964844,-35.41233825683594
+Zoey Deutch,Howard Deutch,father,Zoey Deutch,-26.059743881225586,-41.80715560913086
+Tom Welling,Bonnie Welling,mother,,-27.068504333496094,-48.13120651245117
+Tom Welling,Mark Welling,father,,-25.335596084594727,-49.349464416503906
+Madelyn Cline,Pam Cline,mother,,-28.31357192993164,-48.23616409301758
+Madelyn Cline,Mark Cline,father,,-25.289020538330078,-44.315696716308594
+Holly Hunter,Opal Marguerite Catledge,mother,,-40.01913070678711,-48.256324768066406
+Holly Hunter,Charles Edwin Hunter,father,,-42.785179138183594,-57.63192367553711
+Emmanuelle Seigner,Aline Ponelle,mother,,-23.99542236328125,-46.981956481933594
+Emmanuelle Seigner,Jean-Louis Seigner,father,Emmanuelle Seigner,-7.597496032714844,-19.94754409790039
+Claudia Lee,Denise Lee,mother,,-42.91947555541992,-54.709781646728516
+Claudia Lee,Klaudiusz Lee,father,,-37.92207336425781,-46.94818878173828
+Piper Perabo,Mary Charlotte Ulland,mother,,-40.68182373046875,-63.12488555908203
+Piper Perabo,William Perabo,father,Piper Perabo,-36.32267379760742,-57.384037017822266
+Morgan Freeman,Mayme Edna Revere,mother,Morgan Freeman,-39.80209732055664,-59.17888641357422
+Morgan Freeman,"Morgan Porterfield Freeman, Sr.",father,Morgan Freeman Jr.,-27.707185745239258,-62.56577682495117
+Domhnall Gleeson,Mary Weldon,mother,,-29.589187622070312,-45.117225646972656
+Domhnall Gleeson,Brendan Gleeson,father,Domhnall Gleeson,-21.761016845703125,-36.032188415527344
+Dove Cameron,Bonnie Wallace,mother,Dove Cameron,-45.27776336669922,-63.324161529541016
+Dove Cameron,Philip Alan Hosterman,father,Dove Cameron,-61.36847686767578,-72.11087036132812
+Olivia Holt,Kim Holt,mother,,-42.331138610839844,-65.5068588256836
+Olivia Holt,Mark Holt,father,,-43.33268737792969,-65.77685546875
+Maika Monroe,Dixie Monroe,mother,,-41.79115295410156,-64.93377685546875
+Maika Monroe,Dixie Brubaker,father,,-45.77116394042969,-54.62978744506836
+Michael Sheen,Irene Sheen,mother,,-33.64588928222656,-55.59917068481445
+Michael Sheen,Meyrick Sheen,father,Michael Sheen,-29.86355209350586,-52.25226593017578
+David Fincher,Claire Mae Fincher,mother,,-35.249267578125,-52.75285339355469
+David Fincher,Howard Fincher,father,,-35.428279876708984,-57.48524856567383
+Michael Fassbender,Adele Fassbender,mother,,-5.594743251800537,-21.86478042602539
+Michael Fassbender,Josef Fassbender,father,Michael Fassbender,-10.303722381591797,-24.057010650634766
+Sofia Black-D'Elia,Eleanor D'Elia,mother,,-11.43628978729248,-31.99622917175293
+Sofia Black-D'Elia,Anthony D'Elia,father,,-9.237255096435547,-30.6192569732666
+Eva Green,Marlène Jobert,mother,Eva Green,-67.88963317871094,-80.8812026977539
+Eva Green,Walter Green,father,,-69.08503723144531,-85.21656799316406
+Rooney Mara,Kathleen McNulty Rooney,mother,,-70.17161560058594,-92.0133285522461
+Rooney Mara,Chris Mara,father,,-67.94315338134766,-89.95105743408203
+Emma Thompson,Phyllida Law,mother,Emma Thompson,-60.80299377441406,-75.51241302490234
+Emma Thompson,Eric Thompson,father,Emma Thompson,-65.96556854248047,-80.21930694580078
+Poorna Jagannathan,Retired Vice Admiral V.R. Jagannathan,father,,-30.168113708496094,-20.417224884033203
+Melissa Benoist,Julie Benoist,mother,,-41.767120361328125,-63.649871826171875
+Melissa Benoist,Jim Benoist,father,,-43.53079605102539,-72.77314758300781
+Frances McDormand,Noreen E. Nickelson McDormand,mother,Frances McDormand,-42.992591857910156,-44.569305419921875
+Frances McDormand,Vernon McDormand,father,Frances McDormand,-45.102455139160156,-68.53520202636719
+Krysten Ritter,Kathy Ritter,mother,,-41.81290054321289,-63.005210876464844
+Krysten Ritter,Gary Ritter,father,,-42.06873321533203,-69.91726684570312
+Fisher Stevens,Sally Fisher,mother,,-70.96129608154297,-86.48991394042969
+Viggo Mortensen,Grace Gamble Atkinson,mother,,-59.853057861328125,-72.59960174560547
+Viggo Mortensen,Viggo Peter Mortensen Sr.,father,Viggo Mortensen Jr.,-33.0143928527832,-60.39813995361328
+Liv Tyler,Bebe Buell,mother,Liv Tyler,-64.0984878540039,-74.57319641113281
+Liv Tyler,Steven Tyler,father,Liv Tyler,-64.59878540039062,-74.5959243774414
+Jack Black,Judith Love Cohen,mother,Jack Black,-67.6324691772461,-86.67658233642578
+Jack Black,Thomas William Black,father,,-68.72173309326172,-84.50031280517578
+Taylor Kitsch,Susan Green,mother,,-32.42285919189453,-62.063716888427734
+Taylor Kitsch,Drew Kitsch,father,,-25.00675392150879,-51.42384338378906
+Michael Cera,Linda Cera,mother,,-22.56392478942871,-48.645484924316406
+Michael Cera,Luigi Cera,father,,-30.823577880859375,-50.12249755859375
+James Gunn,Leota Gunn,mother,,-40.66621398925781,-58.45026779174805
+James Gunn,James F. Gunn,father,James Gunn,-31.270042419433594,-45.01580047607422
+Emily Browning,Shelley Browning,mother,,-26.60591697692871,-44.71078109741211
+Emily Browning,Andrew Browning,father,,-24.733505249023438,-40.434654235839844
+Neve Campbell,Marnie Neve Campbell,mother,,-23.114574432373047,-43.332740783691406
+Neve Campbell,Gerry Campbell,father,,-35.553466796875,-55.94297790527344
+John Krasinski,Mary Clare Krasinski,mother,John Krasinski,-20.652759552001953,-29.708171844482422
+John Krasinski,Ronald Krasinski,father,,-20.12975311279297,-32.80553436279297
+Paul Walker,Cheryl Walker,mother,Paul Walker,-32.016902923583984,-52.68788146972656
+Paul Walker,Paul William Walker III,father,Paul Walker IV,-23.24038314819336,-39.7230339050293
+Jacob Tremblay,Christina Candia Tremblay,mother,,-24.325830459594727,-24.11313819885254
+Jacob Tremblay,Jason Tremblay,father,Jacob Tremblay,-17.191959381103516,-35.16634750366211
+Abby Ryder Fortson,Christie Lynn Smith,mother,Abby Ryder Fortson,-35.494998931884766,-53.1540412902832
+Abby Ryder Fortson,John Fortson,father,Abby Ryder Fortson,-26.162582397460938,-55.51491928100586
+Natasia Demetriou,Ellie Demetriou,father,,-13.718284606933594,-21.770166397094727
+Eric Stoltz,Evelyn B. Stoltz,mother,,-14.980175018310547,-28.98493194580078
+Eric Stoltz,Jack Stoltz,father,,-18.22090721130371,-37.70918655395508
+John Cena,Carol Cena,mother,John Cena,-35.0665168762207,-56.78334426879883
+John Cena,John Cena Sr.,father,John Cena Jr.,-24.195344924926758,-48.64756393432617
+Michelle Williams,Carla Williams,mother,,-33.439598083496094,-48.91608428955078
+Michelle Williams,Larry Richard Williams,father,Michelle Williams,-31.451562881469727,-46.07013702392578
+Geena Davis,Lucille Davis,mother,,-24.599708557128906,-44.72138977050781
+Geena Davis,William F. Davis,father,,-24.981098175048828,-42.40686798095703
+Paul Rudd,Gloria Rudd,mother,Paul Rudd,-31.963287353515625,-53.2275505065918
+Paul Rudd,Michael Rudd,father,,-31.859956741333008,-50.93793869018555
+James Mangold,Sylvia Plimack Mangold,mother,James Mangold,-19.552406311035156,-11.791430473327637
+James Mangold,Robert Mangold,father,James Mangold,-22.41157341003418,-40.771018981933594
+Sadie Sink,Lori Sink,mother,,-29.059297561645508,-48.09748077392578
+Sadie Sink,Casey Adam Sink,father,,-33.811180114746094,-56.184818267822266
+Annabelle Wallis,Richard Hardman,father,,-25.47675895690918,-47.241851806640625
+Paula Patton,Joyce Patton,mother,,-34.971824645996094,-56.008121490478516
+Paula Patton,Charles Patton,father,,-35.25199890136719,-51.97200012207031
+Judy Holliday,Helen Tuvim,mother,Judy Holliday,-38.43065643310547,-59.78312683105469
+Judy Holliday,Abe Tuvim,father,Judy Holliday,-38.61081314086914,-61.96812057495117
+Martin Freeman,Philomena Norris,mother,,-25.230422973632812,-48.53390884399414
+Martin Freeman,Geoffrey Freeman,father,,-34.73701477050781,-52.8043212890625
+Milla Jovovich,Galina Jovovich,mother,Milla Jovovich,-5.52427864074707,-19.038724899291992
+Milla Jovovich,Bogdan Jovovich,father,Milla Jovovich,-8.219697952270508,-19.737159729003906
+Peyton List,Suzanne List,mother,,-39.760372161865234,-57.18242263793945
+Peyton List,John List,father,,-37.069969177246094,-59.96595001220703
+James Norton,Lavinia Norton,mother,,-28.38907814025879,-46.35142517089844
+James Norton,Hugh B. Norton,father,,-35.76947784423828,-48.72521209716797
+Noomi Rapace,Nina Norén,mother,,-31.09952163696289,-53.00886154174805
+Noomi Rapace,Rogelio Durán,father,,-27.966684341430664,-34.13488006591797
+Tobias Menzies,Gillian Menzies,mother,,-16.36457061767578,-30.45907211303711
+Tobias Menzies,Peter Menzies Jr.,father,,-11.068193435668945,-32.879425048828125
+Edward Furlong,Eleanor Torres,mother,,-28.8020076751709,-56.697906494140625
+Edward Furlong,Eleanor Torres,father,,-33.1931266784668,-56.697906494140625
+Brooke Langton,Jackson Langton,mother,,-32.975502014160156,-46.5767707824707
+Brooke Langton,Jackson Langton,father,,-32.44536209106445,-46.5767707824707
+Ellen Barkin,Evelyn Barkin,mother,,-24.294580459594727,-51.294918060302734
+Ellen Barkin,Sol Barkin,father,,-27.800460815429688,-52.086181640625
+Mae Whitman,Pat Musick,mother,Mae Whitman,-37.11155700683594,-56.44154357910156
+Mae Whitman,Pat Whitman,father,,-26.979347229003906,-49.65422821044922
+John Francis Daley,R.F. Daley,mother,,-25.745479583740234,-43.46260070800781
+John Francis Daley,R.F. Daley,father,,-23.892133712768555,-43.46260070800781
+Tim Robbins,Mary Robbins,mother,,-33.753692626953125,-52.33870315551758
+Tim Robbins,Gil Robbins,father,Tim Robbins,-38.9749755859375,-55.54453659057617
+Ashly Burch,David Burch,father,,-21.781837463378906,-43.24201202392578
+Zac Efron,Starla Baskett,mother,Zac Efron,-10.470125198364258,-24.43173599243164
+Zac Efron,David Efron,father,Zac Efron,-11.697583198547363,-35.526432037353516
+Will Patton,Billie Patton,mother,,-29.313190460205078,-50.49778747558594
+Will Patton,Bill Patton,father,,-38.093849182128906,-51.41765213012695
+Sam Levinson,Diana Rhodes,mother,,-28.684947967529297,-55.38347244262695
+Sam Levinson,Barry Levinson,father,Sam Levinson,-27.073406219482422,-34.60108184814453
+Parker Posey,Lynda Patton,mother,,-25.347436904907227,-56.67188262939453
+Parker Posey,Chris Posey,father,,-25.816123962402344,-42.370426177978516
+Emily Osment,Theresa Osment,mother,Emily Osment,-28.652280807495117,-43.91037368774414
+Emily Osment,Michael Eugene Osment,father,Emily Osment,-28.747516632080078,-40.506126403808594
+Boyd Holbrook,Ellen Holbrook,mother,,-26.144603729248047,-44.690330505371094
+Boyd Holbrook,Don Holbrook,father,,-25.789844512939453,-48.01154327392578
+Jennifer Morrison,Judy Morrison,mother,,-34.10940933227539,-48.40571594238281
+Jennifer Morrison,David L. Morrison,father,,-28.542627334594727,-43.555747985839844
+Iain Glen,Hamish Glen,father,,-27.707433700561523,-51.148414611816406
+Naomi Watts,Myfanwy Edwards Roberts,mother,,-26.33135223388672,-47.57948303222656
+Naomi Watts,Peter Watts,father,,-31.746021270751953,-50.29562759399414
+Liam Hemsworth,Leonie Hemsworth,mother,,-31.98953628540039,-53.822265625
+Liam Hemsworth,Craig Hemsworth,father,,-28.069419860839844,-43.391204833984375
+Marlon Brando,Dorothy Julia Pennebaker Brando,mother,Marlon Brando,-30.83620834350586,-27.03241539001465
+Marlon Brando,Marlon Brando Sr.,father,Marlon Brando Jr.,-18.577505111694336,-43.24573516845703
+Emma Mackey,Rachel Mackey,mother,,-38.86261749267578,-52.4908447265625
+Emma Mackey,Philippe Mackey,father,,-45.22935485839844,-59.920875549316406
+Nicola Peltz Beckham,Claudia Heffner Peltz,mother,,-16.812997817993164,-26.692245483398438
+Nicola Peltz Beckham,Nelson Peltz,father,,-34.559696197509766,-40.608821868896484
+Ariana Richards,Darielle Garrison,mother,,-46.508949279785156,-67.60430908203125
+Ariana Richards,Gary Richards,father,,-46.495635986328125,-56.3103141784668
+Cameron Diaz,Billie Diaz,mother,,-42.35878372192383,-71.15394592285156
+Cameron Diaz,Emilio Diaz,father,Cameron Diaz,-40.34798812866211,-66.81110382080078
+Ruby Rose,Katia Langenheim,mother,Ruby Rose,-46.22173309326172,-59.46973419189453
+Jennifer Coolidge,Pauline Coolidge,mother,,-35.41590118408203,-54.7949333190918
+Jennifer Coolidge,Paul Coolidge,father,,-35.05607223510742,-51.097450256347656
+Daisy Edgar-Jones,Wendy Edgar-Jones,mother,,-30.40294075012207,-58.13343811035156
+Daisy Edgar-Jones,Philip Edgar-Jones,father,,-30.165626525878906,-51.066741943359375
+Sarah Paulson,Catharine Gordon Dolcater,mother,,-52.761131286621094,-69.87947082519531
+Sarah Paulson,Douglas Lyle Paulson II,father,,-34.90773391723633,-57.20762634277344
+Stana Katic,Rada Katic,mother,,-28.311140060424805,-53.39745330810547
+Stana Katic,Peter Katic,father,Stana Katic,-24.869617462158203,-48.707672119140625
+Joel Kinnaman,Bitte Kinnaman,mother,Joel Kinnaman,-22.958452224731445,-49.130615234375
+Joel Kinnaman,Steve Kinnaman,father,,-19.883146286010742,-42.96205520629883
+Erin Murphy,Stephanie Murphy,mother,,-41.296756744384766,-50.25408935546875
+Erin Murphy,Dan Murphy,father,,-41.49174118041992,-48.31767272949219
+John Rhys-Davies,Phyllis Jones,mother,,-6.435229778289795,-22.1011905670166
+John Rhys-Davies,Rhys Davies,father,,-17.302711486816406,-40.31517791748047
+River Phoenix,Arlyn Phoenix,mother,River Phoenix,-35.50908279418945,-63.67289352416992
+River Phoenix,John Lee Bottom,father,,-37.032752990722656,-60.99415588378906
+Courtney Eaton,Stephenie Eaton,mother,,-44.83443832397461,-63.39752960205078
+Courtney Eaton,Stephen Eaton,father,,-40.04233932495117,-55.91492462158203
+Jeri Ryan,Sharon Zimmerman,mother,,-37.060115814208984,-56.26704025268555
+Selena Gomez,Mandy Teefey,mother,Selena Gomez,-11.759188652038574,-33.25056838989258
+Selena Gomez,Ricardo Joel Gomez,father,Selena Gomez,-25.174522399902344,-52.51621627807617
+Cary Elwes,Tessa Kennedy,mother,,-27.510059356689453,-48.01305389404297
+Cary Elwes,Dominick Elwes,father,Cary Elwes,-23.23340606689453,-33.50059509277344
+Will Ferrell,Betty Kay Overman,mother,,-41.70457458496094,-62.49239730834961
+Will Ferrell,Roy Lee Ferrell Jr.,father,Will Ferrell,-23.028575897216797,-49.255558013916016
+Winona Ryder,Cynthia Palmer,mother,,-34.38829040527344,-56.34515380859375
+Winona Ryder,Michael Horowitz,father,Winona Ryder,-31.18956756591797,-42.369449615478516
+Armie Hammer,Dru Ann Mobley,mother,,-35.47566223144531,-37.02156448364258
+Armie Hammer,Michael Armand Hammer,father,Armie Hammer,-27.303163528442383,-37.68476867675781
+Renee Olstead,Rebecca Lynn Jeffries,mother,,-34.744140625,-43.15673065185547
+Renee Olstead,Christopher Eric Olstead,father,,-27.85501480102539,-42.295562744140625
+Ian McShane,Irene McShane,mother,,-16.374330520629883,-29.154277801513672
+Ian McShane,Harry McShane,father,Ian McShane,-17.51702117919922,-26.52183723449707
+Wendie Malick,Gigi Malick,mother,,-21.853132247924805,-52.11882781982422
+Wendie Malick,Ken Malick,father,,-21.84244728088379,-54.2270393371582
+Nina Dobrev,Michaela Dobreva,mother,,-22.662717819213867,-34.39097213745117
+Nina Dobrev,Konstantin Dobrev,father,,-16.45485496520996,-27.770122528076172
+Elisabeth Shue,Anne Harms,mother,,-26.53765869140625,-53.59170913696289
+Elisabeth Shue,James Shue,father,Elisabeth Shue,-18.553747177124023,-45.64872741699219
+Téa Leoni,Emily Patterson,mother,,-22.503311157226562,-43.18927764892578
+Téa Leoni,Anthony Pantaleoni,father,Téa Leoni,-17.319673538208008,-34.120155334472656
+Sebastian Stan,Georgeta Orlovschi,mother,,-27.092430114746094,-23.417842864990234
+Sebastian Stan,Georgeta Orlovschi,father,,-31.129451751708984,-23.417842864990234
+James Franco,Betsy Lou Franco,mother,James Franco,-28.292770385742188,-49.24077224731445
+James Franco,Douglas Eugene Franco,father,James Franco,-27.764446258544922,-52.155818939208984
+JoAnna Garcia Swisher,Lorraine García,mother,,-11.223267555236816,-39.33100509643555
+JoAnna Garcia Swisher,Jay Garcia,father,,-24.540918350219727,-47.60820388793945
+Jennifer Nettles,Carla Temple,mother,,-27.49529457092285,-53.74909973144531
+Jennifer Nettles,Carlo Nettles,father,,-25.145366668701172,-45.49966812133789
+Rosario Dawson,Isabel Celeste,mother,,-30.637481689453125,-48.812294006347656
+Rosario Dawson,Greg Dawson,father,,-34.64399719238281,-57.5423583984375
+Haley Lu Richardson,Valerie Richardson,mother,,-37.44933319091797,-62.65296936035156
+Haley Lu Richardson,Forrest L. Richardson,father,,-35.15177917480469,-58.07255935668945
+Richa Moorjani,Sudhir Moorjani,father,,-8.344939231872559,-24.332866668701172
+Jack O'Connell,Alison O'Connell,mother,,-20.015625,-36.68174743652344
+Jack O'Connell,John O'Connell,father,,-18.139028549194336,-31.402324676513672
+Jennifer Jason Leigh,Barbara Turner,mother,Jennifer Jason Leigh,-27.054584503173828,-56.112953186035156
+Jennifer Jason Leigh,Vic Morrow,father,Jennifer Jason Leigh,-31.80229949951172,-59.253440856933594
+Chloe Bennet,Stephanie Crane,mother,,-35.45213317871094,-60.636322021484375
+Chloe Bennet,Bennet Wang,father,,-26.74708366394043,-54.16790771484375
+Kathryn Hahn,Karen Hahn,mother,,-23.27137565612793,-46.25847625732422
+Kathryn Hahn,Bill Hahn,father,,-25.066497802734375,-44.239959716796875
+Mila Kunis,Elvira Kunis,mother,Mila Kunis,-13.743865966796875,-27.91562271118164
+Mila Kunis,Mark Kunis,father,Mila Kunis,-20.344560623168945,-43.28232955932617
+Sean Young,Lee Guthrie,mother,,-47.71431350708008,-55.1676025390625
+Sean Young,Donald Young Jr.,father,,-35.464500427246094,-57.82807922363281
+Jessica Biel,Kimberly Biel,mother,,-23.6239013671875,-47.73779296875
+Jessica Biel,Jonathan Biel,father,Jessica Biel,-37.51741027832031,-57.99047088623047
+David Corenswet,Caroline Packard,mother,,-41.61772918701172,-56.9522819519043
+David Corenswet,John Corenswet,father,,-20.775300979614258,-49.04309844970703
+Vera Farmiga,Lubomyra Farmiga,mother,Vera Farmiga,-31.99508285522461,-60.694862365722656
+Vera Farmiga,Mykhailo Farmiga,father,Vera Farmiga,-33.925445556640625,-62.451271057128906
+Lucy Boynton,Adriaane Pielou,mother,,-52.528568267822266,-65.43431091308594
+Lucy Boynton,Graham Boynton,father,,-37.825286865234375,-54.46665954589844
+Wes Bentley,Cherie Bentley,mother,,-46.964111328125,-68.86763000488281
+Wes Bentley,David Bentley,father,,-57.782264709472656,-73.79686737060547
+Justin Theroux,Phyllis Grissim-Theroux,mother,Justin Theroux,-28.205135345458984,-28.56414031982422
+Justin Theroux,Eugene Theroux,father,Justin Theroux,-36.74517059326172,-56.288970947265625
+Grant Gustin,Tina Haney,mother,,-48.56745910644531,-63.12910842895508
+Grant Gustin,Thomas Gustin,father,Grant Gustin,-35.80419921875,-57.78901672363281
+Elizabeth Hurley,Angela Mary Hurley,mother,,-38.75391387939453,-58.02629852294922
+Elizabeth Hurley,Roy Leonard Hurley,father,,-43.83091354370117,-61.79459762573242
+Danielle Panabaker,Donna Panabaker,mother,,-24.917522430419922,-47.00660705566406
+Danielle Panabaker,Harold Panabaker,father,,-28.20981216430664,-47.86233901977539
+Jennifer Lopez,Guadalupe Rodriguez,mother,Jennifer Lopez,-27.707250595092773,-48.45207214355469
+Jennifer Lopez,David Lopez,father,,-53.253089904785156,-72.66475677490234
+Emmanuelle Chriqui,Liliane Chriqui,mother,,-13.228925704956055,-34.61723709106445
+Emmanuelle Chriqui,Albert Chriqui,father,,-19.060420989990234,-44.63220977783203
+Meredith Baxter,Whitney Blake,mother,Meredith Baxter,-63.878143310546875,-74.73507690429688
+Meredith Baxter,Tom Baxter,father,,-61.24906539916992,-75.96435546875
+Addison Timlin,R.J. Timlin,mother,,-33.071693420410156,-53.62305450439453
+Alessandro Nivola,Patricia Nivola,mother,,-25.289669036865234,-48.13020324707031
+Alessandro Nivola,Pietro Nivola,father,,-18.70902442932129,-37.06081008911133
+Sherilyn Fenn,Arlene Quatro,mother,Sherilyn Fenn,-37.20030975341797,-61.199771881103516
+Sherilyn Fenn,Arnett Fenn,father,,-33.94797134399414,-57.647891998291016
+Paget Brewster,Hawthorne Brewster,mother,,-34.69636154174805,-55.52462387084961
+Paget Brewster,Galen Brewster,father,,-32.43033218383789,-52.00852584838867
+Sofía Vergara,Margarita Vergara Dávila,mother,Sofía Vergara,-14.495931625366211,-21.007278442382812
+Sofía Vergara,Julio Enrique Vergara Robayo,father,Sofía Vergara,-28.05265998840332,-41.775306701660156
+Sam Rockwell,Penny Hess,mother,,-43.147491455078125,-77.21315002441406
+Sam Rockwell,Pete Rockwell,father,Sam Rockwell,-36.85337829589844,-57.793758392333984
+Sarah Hyland,Melissa Canaday,mother,Sarah Hyland,-41.65300369262695,-64.35846710205078
+Sarah Hyland,Edward James Hyland,father,Sarah Hyland,-40.02717971801758,-54.35328674316406
+Suzy Amis,Joanna Amis,mother,,-37.83269500732422,-60.2092170715332
+Joshua Jackson,Fiona Jackson,mother,,-57.39689636230469,-75.82821655273438
+Joshua Jackson,John Carter Jackson,father,,-48.254981994628906,-62.542564392089844
+Seann William Scott,Patricia Anne Scott,mother,,-37.92845916748047,-63.29376220703125
+Seann William Scott,William Frank Scott,father,,-42.85607147216797,-66.59225463867188
+Gillian Anderson,Rosemary Anderson,mother,,-41.69031524658203,-59.360191345214844
+Gillian Anderson,Homer Edward Anderson III,father,,-47.27976989746094,-71.5000228881836
+Robin Wright,Gayle Gaston,mother,,-54.29225540161133,-66.64263153076172
+Robin Wright,Freddie Wright,father,,-64.81410217285156,-83.15880584716797
+Lily Collins,Jill Tavelman,mother,Lily Collins,-44.54827117919922,-56.00550079345703
+Lily Collins,Phil Collins,father,Lily Collins,-61.58372497558594,-72.97454833984375
+Jodie Foster,Lucius Fisher Foster III,father,Jodie Foster,-44.341583251953125,-69.5455093383789
+Tim McGraw,Elizabeth Ann D'Agostino,mother,,-40.96936798095703,-57.665748596191406
+Tim McGraw,Tug McGraw,father,Tim McGraw,-39.497337341308594,-51.47378158569336
+Josh Brolin,Jane Cameron Agee,mother,Josh Brolin,-53.873260498046875,-73.75088500976562
+Josh Brolin,James Brolin,father,Josh Brolin,-32.22932434082031,-48.2039794921875
+Fortune Feimster,Ginger Feimster,mother,,-39.93918991088867,-69.29402923583984
+Kurt Russell,Louise Julia Russell,mother,,-64.42169952392578,-85.13906860351562
+Kurt Russell,Bing Russell,father,Kurt Russell,-65.66548919677734,-78.62835693359375
+Dana Delany,Mary Delany,mother,,-42.64312744140625,-69.9486083984375
+Dana Delany,Jack Delany,father,,-45.21974182128906,-72.47544860839844
+Stellan Skarsgård,Gudrun Larsson,mother,,-22.214271545410156,-35.66655349731445
+Stellan Skarsgård,Jan Skarsgård,father,Stellan Skarsgård,-7.559421539306641,-22.643001556396484
+Dave Bautista,Donna Raye Bautista,mother,,-34.708953857421875,-56.731346130371094
+Dave Bautista,David Michael Bautista,father,,-18.05032730102539,-27.978015899658203
+Robert Rodriguez,Rebecca Rodriguez,mother,,-35.54484176635742,-52.58198165893555
+Robert Rodriguez,Cecilio G. Rodriguez,father,,-37.57423400878906,-49.68217086791992
+Iain Armitage,Lee Armitage,mother,,-18.470569610595703,-36.12091827392578
+Iain Armitage,Euan Morton,father,,-25.020790100097656,-59.34394836425781
+Channing Tatum,Kay Tatum,mother,,-23.329204559326172,-44.64033508300781
+Channing Tatum,Glenn Tatum,father,,-21.502004623413086,-44.204532623291016
+Tricia Helfer,Elaine Helfer,mother,,-17.215017318725586,-32.05248260498047
+Tricia Helfer,Dennis Helfer,father,,-18.50965118408203,-31.478885650634766
+Jaren Lewison,Lauren Lewison,mother,,-29.463062286376953,-52.03474044799805
+Jaren Lewison,Jason Lewison,father,,-28.546348571777344,-49.02407455444336
+Adam Devine,Penny Devine,mother,,-27.851348876953125,-47.87398147583008
+Adam Devine,Dennis Devine,father,Adam Devine,-27.032575607299805,-47.84123229980469
+Tilda Swinton,Judith Balfour Killen,mother,,-27.96599769592285,-27.2037353515625
+Tilda Swinton,Sir John Swinton,father,,-19.716611862182617,-44.538578033447266
+Carey Mulligan,Nano Booth,mother,,-40.64591979980469,-69.43085479736328
+Carey Mulligan,Stephen Mulligan,father,,-21.923072814941406,-46.05866622924805
+Jenna Fischer,Anne Fischer,mother,,-34.558753967285156,-53.408729553222656
+Jenna Fischer,James E. Fischer,father,,-31.10501480102539,-44.311004638671875
+Matt Bomer,Sissi Bomer,mother,,-25.022090911865234,-53.037410736083984
+Matt Bomer,John Bomer,father,,-56.474449157714844,-79.2120132446289
+Famke Janssen,Arend Janssen,father,,-28.059921264648438,-57.48350143432617
+Josh Hutcherson,Michelle Fightmaster Hutcherson,mother,Josh Hutcherson,-50.78204345703125,-77.59880828857422
+Josh Hutcherson,Chris Hutcherson,father,Josh Hutcherson,-54.44062042236328,-75.01971435546875
+Joseph Gordon-Levitt,Jane Gordon,mother,,-37.621219635009766,-64.99400329589844
+Joseph Gordon-Levitt,Dennis Levitt,father,,-35.620487213134766,-62.26930618286133
+Chloe Coleman,Allison Chase Coleman,mother,,-77.88624572753906,-85.06968688964844
+Chloe Coleman,Stephen Coleman,father,,-66.63224792480469,-82.59568786621094
+Mackenzie Foy,Karrie Foy,mother,,-42.68165969848633,-59.49604034423828
+Mackenzie Foy,Andrew Steven Foy,father,,-45.90745544433594,-62.95729064941406
+Willem Dafoe,Muriel Isabel Dafoe,mother,,-28.53826904296875,-52.547367095947266
+Willem Dafoe,Dr. William Alfred Dafoe,father,Willem Dafoe,-30.30376434326172,-51.185726165771484
+Renée Zellweger,Kjellfrid Irene Andreassen,mother,Renée Zellweger,-39.470027923583984,-23.75310707092285
+Renée Zellweger,Emil Erich Zellweger,father,Renée Zellweger,-24.606876373291016,-45.29944610595703
+Claire Danes,Carla Danes,mother,,-57.48086929321289,-77.55842590332031
+Claire Danes,Christopher Danes,father,,-57.37541198730469,-75.8386001586914
+Amanda Bynes,Lynn Bynes,mother,Amanda Bynes,-55.01474380493164,-82.58995056152344
+Amanda Bynes,Rick Bynes,father,Amanda Bynes,-58.57954406738281,-80.40626525878906
+Alex Borstein,Judy Borstein,mother,,-60.77124786376953,-79.5073013305664
+Alex Borstein,Irv Borstein,father,Alex Borstein,-58.310516357421875,-68.33328247070312
+Robert Patrick,Nadine Patrick,mother,,-38.499794006347656,-56.69770050048828
+Robert Patrick,Robert Patrick Sr.,father,Robert Patrick Jr.,-27.116771697998047,-56.55363464355469
+Alicia Witt,Diane Witt,mother,,-36.3233642578125,-53.37690353393555
+Alicia Witt,Robert Witt,father,,-35.42008972167969,-54.40569305419922
+Hayden Panettiere,Lesley Vogel,mother,Hayden Panettiere,-17.619205474853516,-42.24197769165039
+Hayden Panettiere,Skip Panettiere,father,Hayden Panettiere,-16.528703689575195,-44.17356872558594
+Mahershala Ali,Willicia Moore,mother,,-27.206518173217773,-50.281410217285156
+Mahershala Ali,Phillip F. Gilmore,father,,-34.17024230957031,-40.267051696777344
+Cyndi Lauper,Catrine Dominique,mother,,-34.02188491821289,-38.11479187011719
+Cyndi Lauper,Fred Lauper,father,,-18.96166229248047,-46.91670227050781
+Carmen Ejogo,Elizabeth Douglas,mother,,-37.76564025878906,-62.939674377441406
+Carmen Ejogo,Charles Ejogo,father,Carmen Ejogo,-27.33154296875,-53.390296936035156
+Richard Gere,Doris Ann Tiffany,mother,,-28.033702850341797,-57.25801086425781
+Richard Gere,Homer George Gere,father,Richard Gere,-32.56694793701172,-56.379859924316406
+Isabelle Fuhrman,Elina Fuhrman,mother,Isabelle Fuhrman,-10.944727897644043,-24.98631477355957
+Isabelle Fuhrman,Nick Fuhrman,father,,-16.538728713989258,-27.988155364990234
+Bill Nighy,Catherine Josephine Nighy,mother,Bill Nighy,-15.634615898132324,-22.14698600769043
+Bill Nighy,Alfred Nighy,father,Bill Nighy,-19.733642578125,-44.45195770263672
+Ben Stiller,Anne Meara,mother,Ben Stiller,-23.487699508666992,-41.02410125732422
+Ben Stiller,Jerry Stiller,father,Ben Stiller,-19.717731475830078,-36.42237854003906
+Dianna Agron,Mary Agron,mother,Dianna Agron,-24.288408279418945,-51.33632278442383
+Dianna Agron,Ronald S. Agron,father,Dianna Agron,-27.947158813476562,-50.74973678588867
+Cameron Monaghan,Diane Monaghan,mother,,-35.510719299316406,-56.375240325927734
+Ewan McGregor,Carol Diane McGregor,mother,Ewan McGregor,-41.24703598022461,-64.89187622070312
+Judy Greer,Mollie Ann Greer,mother,,-28.36290168762207,-49.76405715942383
+Judy Greer,Rich Evans,father,,-38.873958587646484,-65.5518569946289
+Austin Butler,Lori Anne Howell,mother,,-41.92979049682617,-58.138084411621094
+Austin Butler,David Butler,father,,-42.07563018798828,-56.23111343383789
+Billy Crudup,Georgann Gaither,mother,,-41.67835235595703,-61.715782165527344
+Billy Crudup,Thomas Henry Crudup III,father,Billy Crudup,-30.555171966552734,-55.349830627441406
+Eva Longoria,Ella Eva Mireles,mother,Eva Longoria,-40.65394592285156,-65.30117797851562
+Eva Longoria,Enrique Longoria Jr.,father,Eva Longoria,-26.815052032470703,-54.9992790222168
+Bridget Moynahan,Mary Bridget Moynahan,mother,,-12.397022247314453,-14.955297470092773
+Bridget Moynahan,Edward Bradley Moynahan,father,,-25.023815155029297,-34.16840744018555
+Richard Armitage,Margaret Armitage,mother,,-21.820154190063477,-40.58548355102539
+Richard Armitage,John Armitage,father,Richard Armitage,-21.64936065673828,-39.37472915649414
+Christine Taylor,Joan Taylor,mother,,-42.136749267578125,-65.55682373046875
+Tom Hiddleston,Diana Patricia Hiddleston,mother,Tom Hiddleston,-21.995609283447266,-48.00716781616211
+Tom Hiddleston,James Norman Hiddleston,father,Tom Hiddleston,-20.54891014099121,-47.54024887084961
+Paul Newman,Theresa Fetzer Newman.,mother,,-42.39633560180664,-78.84768676757812
+Paul Newman,Arthur Sigmund Newman,father,Paul Newman,-34.223140716552734,-50.25962829589844
+Jen Landon,Cindy Clerico,mother,,-48.906150817871094,-54.96502685546875
+Jen Landon,Michael Landon,father,,-35.02805709838867,-42.70533752441406
+Rob Lowe,Barbara Lynn Hepler,mother,,-41.33440017700195,-51.950286865234375
+Rob Lowe,Charles Davis Lowe,father,Rob Lowe,-39.475120544433594,-52.20753860473633
+James McAvoy,Elizabeth Johnstone,mother,,-29.50391387939453,-36.99290466308594
+James McAvoy,James McAvoy Sr.,father,James McAvoy,-6.817930221557617,-24.85867691040039
+Justice Smith,Duilia Setacci,mother,,-50.73063278198242,-65.9895248413086
+Justice Smith,Wayne Smith,father,,-41.38261413574219,-53.289669036865234
+John Cusack,Ann Paula Cusack,mother,John Cusack,-26.015684127807617,-16.390426635742188
+John Cusack,Dick Cusack,father,John Cusack,-19.199472427368164,-34.568153381347656
+Logan Lerman,Lisa Lerman,mother,,-23.60720443725586,-44.214569091796875
+Logan Lerman,Larry Lerman,father,Logan Lerman,-25.00676155090332,-40.68601989746094
+Tuppence Middleton,Nina Middleton,mother,,-26.07093048095703,-50.410003662109375
+Tuppence Middleton,Nigel Middleton,father,,-26.252490997314453,-50.14111328125
+Mélanie Laurent,Annick Laurant,mother,,-30.933948516845703,-36.83599090576172
+Mélanie Laurent,Pierre Laurent,father,,-25.439319610595703,-43.1038818359375
+Anthony Hopkins,Muriel Anne Hopkins,mother,,-28.529483795166016,-45.785552978515625
+Anthony Hopkins,Richard Arthur Hopkins,father,,-40.63496398925781,-48.21197509765625
+Joe Cole,George Cole,father,,-38.453330993652344,-48.86873245239258
+Gena Rowlands,Mary Allen Neal,mother,,-44.60538864135742,-73.1914291381836
+Gena Rowlands,Edwin Myrwyn Rowlands,father,Gena Rowlands,-50.397972106933594,-65.19488525390625
+Benedict Cumberbatch,Wanda Ventham,mother,Benedict Cumberbatch,-31.348363876342773,-46.138431549072266
+Benedict Cumberbatch,Timothy Carlton,father,Benedict Cumberbatch,-37.05101013183594,-60.460968017578125
+Molly Ringwald,Adele Edith Ringwald,mother,Molly Ringwald,-34.569801330566406,-58.799617767333984
+Molly Ringwald,Robert Ringwald,father,Molly Ringwald,-42.38048553466797,-56.3912239074707
+Donald Glover,Beverly Smith,mother,,-62.292564392089844,-73.2464599609375
+Donald Glover,Donald Glover Sr.,father,Donald Glover Jr.,-41.33640670776367,-62.710350036621094
+Zack Snyder,Marsha Snyder,mother,,-56.50285339355469,-65.06532287597656
+Zack Snyder,Charles Edward Snyder,father,,-61.03403854370117,-64.28321838378906
+Lynn Collins,Patricia Lynn Collins,mother,,-65.4317855834961,-69.08979034423828
+Christoph Waltz,Elisabeth Urbancic,mother,Christoph Waltz,-48.21041488647461,-61.3139762878418
+Christoph Waltz,Johannes Waltz,father,,-43.006256103515625,-58.10687255859375
+James Gandolfini,Santa Gandolfini,mother,,-29.336078643798828,-50.23301696777344
+James Gandolfini,James Joseph Gandolfini Sr.,father,James Gandolfini Jr.,-10.92142105102539,-13.688957214355469
+Jonathan Rhys Meyers,John O'Keeffe,father,,-23.108440399169922,-35.197669982910156
+Ron Livingston,Linda Livingston,mother,,-63.66367721557617,-76.5702896118164
+Ron Livingston,Kurt Livingston,father,,-68.61419677734375,-80.44036865234375
+Jeff Bridges,Dorothy Bridges,mother,Jeff Bridges,-62.820735931396484,-75.97350311279297
+Jeff Bridges,Lloyd Bridges,father,Jeff Bridges,-63.4788703918457,-69.92560577392578
+Nikolaj Coster-Waldau,Hanne Søborg Coster,mother,,-38.52132034301758,-60.789180755615234
+Nikolaj Coster-Waldau,Jørgen Oscar Fritzer Waldau,father,Nikolaj Coster-Waldau,-31.97530746459961,-26.11931800842285
+Mark Rylance,Anne Skinner,mother,,-67.6997299194336,-95.79957580566406
+Mark Rylance,David Waters,father,,-67.49317932128906,-95.58966827392578
+Julianne Moore,Anne Love Smith,mother,,-73.4830551147461,-92.95983123779297
+Julianne Moore,Peter Moore Smith,father,,-65.2824935913086,-91.8379135131836
+Penelope Ann Miller,Beatrice Miller,mother,,-67.25810241699219,-88.25123596191406
+Penelope Ann Miller,Mark Miller,father,,-69.27993774414062,-89.81021118164062
+Sophie Skelton,Ruth Skelton,mother,,-68.92656707763672,-83.80774688720703
+Sophie Skelton,Simon Skelton,father,,-68.24059295654297,-82.15083312988281
+Evan Peters,Julie Peters,mother,,-80.70280456542969,-98.75908660888672
+Evan Peters,Phil Peters,father,,-82.62139892578125,-99.12035369873047
+Julia Louis-Dreyfus,Judith Bowles,mother,,-60.11147689819336,-89.1280746459961
+Julia Louis-Dreyfus,Gérard Louis-Dreyfus,father,Julia Louis-Dreyfus,-23.070648193359375,-49.712158203125
+Pierce Brosnan,May Smith Brosnan,mother,Pierce Brosnan,-75.79893493652344,-95.46753692626953
+Pierce Brosnan,Thomas Brosnan,father,,-66.73905181884766,-87.67102813720703
+Denise Richards,Joni Richards,mother,,-75.5592269897461,-100.6952133178711
+Denise Richards,Irv Richards,father,Denise Richards,-86.87784576416016,-101.66043090820312
+Matthew Goode,Jennifer Goode,mother,,-68.63001251220703,-83.54910278320312
+Matthew Goode,Anthony Goode,father,,-69.24076843261719,-88.02086639404297
+Taika Waititi,Robin Cohen,mother,,-64.66295623779297,-84.33732604980469
+Kiefer Sutherland,Shirley Douglas,mother,Kiefer Sutherland,-56.4526252746582,-73.01446533203125
+Kiefer Sutherland,Donald Sutherland,father,Kiefer Sutherland,-41.075721740722656,-52.3670768737793
+Josh Dallas,Diana Dallas,mother,,-70.65388488769531,-86.878173828125
+Janina Gavankar,Shan-de-Mohra Gavankar,mother,Janina Gavankar,-42.63226318359375,-35.26821517944336
+Janina Gavankar,Pete Gavankar,father,Janina Gavankar,-29.67545509338379,-62.76211166381836
+Alyssa Milano,Lin Milano,mother,Alyssa Milano,-65.78587341308594,-90.72663116455078
+Alyssa Milano,Thomas M. Milano,father,,-62.49296951293945,-83.87010192871094
+Maggie Grace,Valinn Everett,mother,,-79.42704772949219,-97.24015808105469
+Maggie Grace,Rick Denig,father,,-79.40875244140625,-91.2806625366211
+Sophie Nélisse,Pauline Belhumeur,mother,,-51.467063903808594,-67.30393981933594
+Sophie Nélisse,Paul Nélisse,father,,-45.49990463256836,-66.15772247314453
+Camilla Belle,Deborah Gould,mother,,-65.57091522216797,-87.6706314086914
+Camilla Belle,Jack Wesley Routh,father,,-77.53170013427734,-85.77601623535156
+Claire Forlani,Barbara Dickinson,mother,,-63.26594161987305,-91.7044906616211
+Claire Forlani,Piero Forlani,father,Claire Forlani,-41.38435745239258,-63.652549743652344
+Tim Burton,Jean Burton,mother,,-67.24537658691406,-89.04110717773438
+Tim Burton,Bill Burton,father,,-68.03963470458984,-82.4141616821289
+Sharon Horgan,Ursula Horgan,mother,,-60.01820373535156,-82.51394653320312
+Sharon Horgan,John Horgan,father,,-62.205596923828125,-80.07220458984375
+Rachel Nichols,Ronald Jacobsen,father,,-32.03004455566406,-42.40118408203125
+Erika Christensen,Kathy Christensen,mother,,-18.57294273376465,-36.381187438964844
+Erika Christensen,Steven Christensen,father,,-19.63645362854004,-35.56254196166992
+Troye Sivan,Laurelle Mellet,mother,Troye Sivan,-29.555564880371094,-42.69865417480469
+Troye Sivan,Shaun Mellet,father,Troye Sivan,-28.610700607299805,-51.97858810424805
+Alicia Silverstone,Didi Silverstone,mother,,-18.920251846313477,-46.58025360107422
+Alicia Silverstone,Monty Silverstone,father,Alicia Silverstone,-19.432270050048828,-44.07835388183594
+Toni Collette,Judy Collette,mother,,-22.742687225341797,-46.88765335083008
+Toni Collette,Bob Collette,father,,-23.761699676513672,-47.26344299316406
+Kim Basinger,Ann Lee Cordell,mother,,-32.754302978515625,-39.22577667236328
+Kim Basinger,Donald Wade Basinger,father,Kim Basinger,-20.30347442626953,-22.438148498535156
+Jared Leto,Constance Leto,mother,Jared Leto,-17.30497932434082,-49.15985107421875
+Jared Leto,Anthony L. Bryant,father,,-23.2973575592041,-50.52867126464844
+Neal McDonough,Catherine McDonough,mother,,-25.84360122680664,-46.07815933227539
+Neal McDonough,Frank McDonough,father,,-26.371047973632812,-45.819889068603516
+Gina Carano,Dana Cason,mother,,-30.239608764648438,-53.90292739868164
+Gina Carano,Glenn Carano,father,Gina Carano,-24.93711280822754,-46.038482666015625
+Heather Graham,Joan Graham,mother,,-33.33882522583008,-52.56980514526367
+Heather Graham,Joan Bransfield Graham,father,,-34.8651123046875,-48.71526336669922
+Paul Thomas Anderson,Edwina Gough Anderson,mother,,-19.112043380737305,-26.248018264770508
+Paul Thomas Anderson,Ernie Anderson,father,Paul Thomas Anderson,-27.287368774414062,-46.22306823730469
+Emily Deschanel,Mary Jo Deschanel,mother,,-19.97245216369629,-24.220550537109375
+Emily Deschanel,Caleb Deschanel,father,,-22.53285026550293,-35.16763687133789
+Claudie Blakley,Lin Blakley,mother,,-26.110267639160156,-43.12379837036133
+Claudie Blakley,Alan Blakley,father,,-23.099857330322266,-37.06618118286133
+Freddie Highmore,Sue Latimer,mother,Freddie Highmore,-35.88068389892578,-57.8951416015625
+Freddie Highmore,Edward Highmore,father,Freddie Highmore,-24.33545684814453,-44.860374450683594
+Lorraine Bracco,Eileen Bracco,mother,,-16.987642288208008,-41.02861022949219
+Lorraine Bracco,Salvatore Bracco,father,,-15.098320007324219,-42.345184326171875
+Meg Ryan,Susan Jordan Duggan,mother,,-44.199737548828125,-57.62335968017578
+Meg Ryan,Harry Hyra,father,Meg Ryan,-40.56863021850586,-61.43335723876953
+Denis Villeneuve,Nicole Demers,mother,,-32.034027099609375,-58.05076217651367
+Denis Villeneuve,Nicole Demers,father,,-35.75617599487305,-58.050758361816406
+Jeff Goldblum,Shirley Goldblum,mother,,-17.755931854248047,-43.92024230957031
+Jeff Goldblum,Harold L. Goldblum,father,Jeff Goldblum,-14.118081092834473,-27.208803176879883
+Patrick Wilson,Mary Kay Wilson,mother,,-39.20072937011719,-57.54756164550781
+Patrick Wilson,John Franklin Wilson,father,,-41.51612091064453,-55.36784744262695
+Luke Evans,Yvonne Evans,mother,,-28.283641815185547,-44.78881072998047
+Luke Evans,David Evans,father,,-32.41325378417969,-50.407039642333984
+Pablo Schreiber,Tell Schreiber,mother,Pablo Schreiber,-32.31023025512695,-45.16514587402344
+Pablo Schreiber,Tell Schreiber,father,Pablo Schreiber,-52.21131134033203,-62.407997131347656
+Jena Malone,Debbie Malone,mother,,-64.397216796875,-84.34407043457031
+Jena Malone,Edward Berge,father,,-68.33755493164062,-80.2337646484375
+Rebecca Hall,Maria Ewing,mother,Rebecca Hall,-69.84080505371094,-79.48282623291016
+Rebecca Hall,Peter Hall,father,Rebecca Hall,-65.23701477050781,-80.9775619506836
+Mary Steenburgen,Nellie Mae Wall Steenburgen,mother,Mary Steenburgen,-25.597877502441406,-28.91288948059082
+Mary Steenburgen,Maurice Steenburgen,father,,-28.163217544555664,-52.32664489746094
+Gustaf Skarsgård,My Skarsgård,mother,,-33.44026565551758,-35.38327407836914
+Gustaf Skarsgård,Stellan Skarsgård,father,,-5.742146968841553,-5.19654655456543
+Alisan Porter,Laura Klein,mother,,-67.97103118896484,-89.98877716064453
+Alisan Porter,Ric Porter,father,,-71.57841491699219,-89.87757873535156
+Scott Eastwood,Jacelyn Reeves,mother,Scott Eastwood,-60.715911865234375,-87.76454162597656
+Scott Eastwood,Clint Eastwood,father,Scott Eastwood,-56.28396987915039,-63.88103485107422
+Halston Sage,Liora Sage,mother,,-47.48997497558594,-81.11370849609375
+Halston Sage,Lenny Sage,father,,-60.58175277709961,-85.43898010253906
+Jeremy Renner,Valerie Cearley,mother,Jeremy Renner,-52.877254486083984,-70.475830078125
+Jeremy Renner,Lee Renner,father,,-55.2470817565918,-78.8262939453125
+Olivia Munn,Kim Schmid,mother,,-60.21583938598633,-80.6738052368164
+Olivia Munn,Winston Munn,father,,-61.34494400024414,-80.72392272949219
+Bill Murray,Lucille Murray,mother,,-62.73008728027344,-83.22998809814453
+Bill Murray,Edward Joseph Murray II,father,Bill Murray,-59.265140533447266,-77.31114959716797
+Theo James,Jane Martin,mother,,-66.41087341308594,-82.97921752929688
+Theo James,Philip Taptiklis,father,Theo James,-59.64690017700195,-68.9586410522461
+Milo Ventimiglia,Carol Ventimiglia,mother,,-34.328880310058594,-57.280460357666016
+Milo Ventimiglia,Peter Ventimiglia,father,,-34.14315414428711,-51.9963264465332
+Sophie Turner,Sally Turner,mother,,-62.992652893066406,-80.89535522460938
+Sophie Turner,Andrew Turner,father,,-62.07423400878906,-81.78300476074219
+Vincent D'Onofrio,Phyllis D'Onofrio,mother,Vincent D'Onofrio,-7.754201889038086,-26.657655715942383
+Vincent D'Onofrio,Gennaro D'Onofrio,father,,-9.876688003540039,-13.378626823425293
+Danny DeVito,Julia DeVito,mother,,-56.97136688232422,-78.0810546875
+Danny DeVito,Daniel DeVito Sr.,father,Danny DeVito,-38.60370635986328,-68.14013671875
+Tim Curry,Patricia Curry,mother,,-66.77340698242188,-86.4627685546875
+Tim Curry,James Curry,father,,-67.3924331665039,-85.39521026611328
+Gugu Mbatha-Raw,Anne Raw,mother,,-35.760986328125,-71.93340301513672
+Gugu Mbatha-Raw,Patrick Mbatha,father,,-36.71868133544922,-59.73065185546875
+Rose Leslie,Candida Mary Sibyl Leslie,mother,,-63.01078796386719,-71.91726684570312
+Rose Leslie,Sebastian Arbuthnot-Leslie,father,Rose Leslie,-56.93159866333008,-63.649879455566406
+J.C. Chandor,Mary Cameron Goodyear,mother,,-51.10594940185547,-65.01233673095703
+J.C. Chandor,Jeffrey Chandor,father,,-42.14424133300781,-64.98701477050781
+Guy Pearce,Anne Cocking,mother,,-72.38277435302734,-85.77490234375
+Guy Pearce,Stuart Pearce,father,,-29.019269943237305,-47.08279800415039
+Dylan O'Brien,Lisa O'Brien,mother,,-16.725624084472656,-35.16767120361328
+Dylan O'Brien,Patrick O'Brien,father,,-16.434486389160156,-31.86617660522461
+Jonah Hill,Sharon Lyn Chalkin,mother,,-32.1005859375,-41.631046295166016
+Jonah Hill,Richard Feldstein,father,Jonah Hill,-28.205970764160156,-42.82285690307617
+Audie Murphy,Josie Bell Murphy,mother,,-28.621875762939453,-37.09273910522461
+Audie Murphy,Emanuel Murphy,father,,-30.80422592163086,-52.65621566772461
+Haley Bennett,Leilani Dorsey Bennett,mother,,-22.10248565673828,-24.82586097717285
+Haley Bennett,Ronald Keeling,father,,-35.95093536376953,-44.10594177246094
+Samantha Morton,Pamela Morton,mother,,-25.05730628967285,-47.502567291259766
+Samantha Morton,Peter Morton,father,,-23.42506980895996,-42.989139556884766
+Sienna Miller,Josephine Miller,mother,,-19.347549438476562,-37.03950500488281
+Sienna Miller,Edwin Miller,father,,-26.448469161987305,-44.5130615234375
+Julianne Hough,Mari Anne Hough,mother,Julianne Hough,-13.560276985168457,-25.14425277709961
+Julianne Hough,Bruce Robert Hough,father,Julianne Hough,-16.7293701171875,-25.782638549804688
+Anna Camp,Dee Camp,mother,,-31.94622802734375,-48.22191619873047
+Anna Camp,Thomas Sewell Camp,father,,-31.610118865966797,-47.70685577392578
+Aidan Turner,Eileen Turner,mother,,-17.965763092041016,-37.01921844482422
+Aidan Turner,Pat Turner,father,,-24.381938934326172,-43.48993682861328
+Jami Gertz,Walter Gertz,father,,-18.759571075439453,-33.942596435546875
+Glen Powell,Cyndy Powell,mother,,-40.5931396484375,-51.784637451171875
+Glen Powell,Glen Powell Sr.,father,Glen Powell,-38.50507736206055,-58.8212890625
+Melissa Barrera,Rosana Maria Suarez,mother,,-37.20759582519531,-57.51353073120117
+Melissa Barrera,Tomás Barrera Tames,father,,-38.54796600341797,-46.77001190185547
+Daveed Diggs,Barbara Needell,mother,,-36.4017448425293,-58.55403137207031
+Daveed Diggs,Dountes Diggs,father,,-34.42972946166992,-52.3092155456543
+Odette Annable,Lydia Yustman,mother,,-41.739864349365234,-56.38056564331055
+Odette Annable,Victor Yustman,father,Odette Annable,-42.10679626464844,-58.073543548583984
+Catherine Zeta-Jones,Patricia Fair,mother,,-20.70098114013672,-50.43925476074219
+Catherine Zeta-Jones,David James Jones,father,,-24.411569595336914,-46.09273147583008
+Liev Schreiber,Heather Schreiber,mother,,-19.76419448852539,-34.015106201171875
+Liev Schreiber,Tell Schreiber,father,Liev Schreiber,-32.64677810668945,-33.58209991455078
+Patrick Warburton,Barbara Lord Warburton,mother,,-30.245315551757812,-37.86122131347656
+Patrick Warburton,John Charles Warburton Jr.,father,,-16.31192398071289,-19.7501163482666
+Maggie Smith,Margaret Hutton Smith,mother,,-41.77058410644531,-48.73085021972656
+Maggie Smith,Nathaniel Smith,father,,-39.279685974121094,-52.978904724121094
+Ethan Coen,Rena Neumann Coen,mother,Ethan Coen,-43.131927490234375,-57.373619079589844
+Ethan Coen,Edward Coen,father,,-40.7137451171875,-48.67424392700195
+Katherine McNamara,Ursula McNamara,mother,,-21.883708953857422,-28.510639190673828
+Katherine McNamara,Evan McNamara,father,,-28.052143096923828,-38.1474494934082
+Josh Segarra,Damaris Segarra,mother,,-10.935100555419922,-22.852529525756836
+Anna Faris,Karen Faris,mother,,-15.970348358154297,-41.118194580078125
+Anna Faris,Jack Faris,father,Anna Faris,-18.503719329833984,-42.22329330444336
+Kristin Kreuk,Deanna Che,mother,,-18.938886642456055,-49.999420166015625
+Kristin Kreuk,Peter Kreuk,father,Kristin Kreuk,-16.178489685058594,-36.5715446472168
+Camila Morrone,Lucila Solá,mother,Camila Morrone,-16.224910736083984,-38.45335006713867
+Camila Morrone,Maximo Morrone,father,Camila Morrone,-10.075389862060547,-24.464763641357422
+Anthony Michael Hall,Mercedes Hall,mother,Anthony Michael Hall,-26.639623641967773,-50.305686950683594
+Anthony Michael Hall,Larry Hall,father,,-24.13528060913086,-44.085426330566406
+Ali Larter,Margaret Larter,mother,,-18.69917869567871,-37.91586685180664
+Ali Larter,Danforth Larter,father,Ali Larter,-27.833045959472656,-40.43152618408203
+Ray Liotta,Mary Liotta,mother,,-15.712570190429688,-43.32198715209961
+Ray Liotta,Alfred Liotta,father,,-19.805994033813477,-46.56336212158203
+Michelle Hurd,Merlyn Purdy,mother,,-34.83778762817383,-40.173702239990234
+Michelle Hurd,Hugh Hurd,father,Michelle Hurd,-25.08767318725586,-40.745113372802734
+Jenny Slate,Nancy Slate,mother,,-23.304359436035156,-46.21355438232422
+Jenny Slate,Ron Slate,father,,-24.568790435791016,-48.36264419555664
+Phoebe Fox,Prue Fox,mother,,-22.612966537475586,-38.71268081665039
+Phoebe Fox,Stuart Fox,father,,-22.678119659423828,-42.064178466796875
+Jonny Lee Miller,Anne Lee,mother,,-16.956676483154297,-43.24664306640625
+Jonny Lee Miller,Alan Miller,father,,-25.62042999267578,-53.66950988769531
+Ella Purnell,Caroline Purnell,mother,,-20.425949096679688,-38.768836975097656
+Dichen Lachman,Tashi Lachman,mother,,-11.396934509277344,-37.0531120300293
+Dichen Lachman,Chris Lachman,father,,-19.625423431396484,-35.47453308105469
+Chelah Horsdal,Valerie Horsdal,mother,,-22.10100555419922,-43.21382522583008
+Chelah Horsdal,Valdy Horsdal,father,,-16.360715866088867,-43.20275115966797
+Rose McIver,Annie McIver,mother,,-20.87106704711914,-40.80330276489258
+Ron Howard,Jean Speegle Howard,mother,Ron Howard,-29.12303352355957,-43.038185119628906
+Ron Howard,Rance Howard,father,Ron Howard,-35.1552734375,-52.03636169433594
+Kevin Spacey,Kathleen Ann Spacey,mother,Kevin Spacey,-24.580154418945312,-49.848812103271484
+Kevin Spacey,Thomas Geoffrey Fowler,father,,-28.57992172241211,-58.538063049316406
+Steven Yeun,June Yeun,mother,Steven Yeun,-24.439498901367188,-54.76142120361328
+Steven Yeun,Je Yeun,father,,-32.08934783935547,-64.03821563720703

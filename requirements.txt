@@ -2,3 +2,8 @@ huggingface_hub[cli]
 transformers
 torch
 python-dotenv
+attrs
+accelerate
+pandas
+seaborn
+matplotlib
