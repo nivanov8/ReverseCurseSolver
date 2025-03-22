@@ -1,1 +1,3 @@
 .env
+figures/
+**/__pycache__/s

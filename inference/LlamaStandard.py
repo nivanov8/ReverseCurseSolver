@@ -8,7 +8,7 @@ load_dotenv()
 hf_token = os.getenv("HF_TOKEN")
 login(token=hf_token)
 
-cache_dir = "/scratch/expires-2025-Mar-14"
+cache_dir = "/scratch/expires-2025-Apr-01"
 
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B", cache_dir=cache_dir)
 model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.2-1B", cache_dir=cache_dir)

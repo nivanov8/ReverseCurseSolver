@@ -10,4 +10,9 @@
 2. In the .env file create a variable ```HF_TOKEN = $YOUR_HF_TOKEN```
 
 ### Running Llama
-1. To run standard Llama, in the root directory of ReverseCurseSolver run ```python LlamaStandard.py```
+1. To run standard Llama inference, in the root directory of ReverseCurseSolver run ```python inference/LlamaStandard.py```
+
+
+### Reproducing Experiment #2
+1. In the root directory of ReverseCurseSolver run ```python -m baseline_results.experiment2.test_experiment2_base``` this will generate the test results using Llama-3.2-1B
+2. In the root directory of ReverseCurseSolver run ```python ./baseline_results/experiment2/plot_experiment2_base.py``` this will save a bar plot to the ```/figures``` directory
