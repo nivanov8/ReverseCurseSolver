@@ -22,10 +22,15 @@ class LlamaModel(Model):
             inputs = [inputs]
 
         input_tokens = self.tokenizer(inputs, padding=True, return_tensors="pt").input_ids.to(self.model.device)
-        output_tokens = self.model.generate(input_ids=input_tokens, max_new_tokens=max_tokens)
+
+        attention_mask = (input_tokens != self.tokenizer.eos_token_id).long().to(self.model.device)
+
+        output_tokens = self.model.generate(input_ids=input_tokens, attention_mask=attention_mask, max_new_tokens=max_tokens)
+        output_tokens = output_tokens[:, len(input_tokens[0]):]
         outputs = self.tokenizer.batch_decode(output_tokens)
-        if remove_padding:
-            outputs = [output.replace("<pad>", "") for output in outputs]
+        #if remove_padding:
+            #outputs = [output.replace("<pad>", "") for output in outputs]
+        #    outputs = [output.replace("<|end_of_text|>", "") for output in outputs]
 
         return outputs
 

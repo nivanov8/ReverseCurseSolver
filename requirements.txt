@@ -7,3 +7,5 @@ accelerate
 pandas
 seaborn
 matplotlib
+datasets
+trl
