@@ -1,4 +1,4 @@
 .env
 figures/
 **/__pycache__
-**/llama3-finetuned**
+**/llama3-finetune**
