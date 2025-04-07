@@ -9,7 +9,6 @@ from copy import deepcopy
 import bitsandbytes as bnb
 from huggingface_hub import login
 
-login(token="")
 # Load raw data
 def preprocess(example):
     pairs = []
