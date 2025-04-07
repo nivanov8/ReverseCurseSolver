@@ -8,7 +8,7 @@ load_dotenv()
 hf_token = os.getenv("HF_TOKEN")
 login(token=hf_token)
 
-cache_dir = "/scratch/expires-2025-Apr-01"
+cache_dir = "/scratch/expires-2025-Apr-19"
 
 
 def load_hf_model_and_tokenizer(model_id_or_path: str):

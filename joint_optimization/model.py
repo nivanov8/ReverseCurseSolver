@@ -1,41 +1,51 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
+import torch.nn.functional as F
+from transformers import AutoTokenizer, Trainer
 from tokenizers.processors import TemplateProcessing
 
 
-def get_paired_loss_model(model_name, torch_dtype, cache_dir=None):
-    # Loads a model that can take in two inputs to compute a paired loss
-    # and is also suitable for seq2seq-type training
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name, torch_dtype=torch_dtype, cache_dir=cache_dir,
-        attn_implementation="sdpa",
-    )
+class ContrastiveLossTrainer(Trainer):
+    def __init__(self, *args, **kwargs):
+        contrastive_weight = kwargs.pop("contrastive_weight", 0.1)
+        super().__init__(*args, **kwargs)
+        self.contrastive_weight = contrastive_weight # How much weight to assign to contrastive loss
 
-    original_forward = model.forward
+    @staticmethod
+    def get_sentence_embedding(hidden_states, attention_mask):
+        """Extract hidden state (representation of prefix tokens) using last token's embedding
+        for each sequence in the batch."""
+        last_token_idx = attention_mask.sum(dim=1) - 1
+        batch_size = hidden_states.shape[0]
+        return hidden_states[torch.arange(batch_size), last_token_idx, :] # get the full representation at the last token index
 
-    def paired_forward(self, input_ids=None, attention_mask=None, labels=None, 
-            input_ids_2=None, attention_mask_2=None, labels_2=None, **kwargs):
-        
-        # Compute first loss
-        outputs1 = original_forward(input_ids=input_ids, attention_mask=attention_mask, labels=labels, **kwargs)
+    def compute_loss(self, model, inputs, return_outputs=False, num_items_in_batch=None):
+        input_ids = inputs["input_ids"]
+        attention_mask = inputs["attention_mask"]
+        labels = inputs.pop("labels")
+        paired_input_ids = inputs.get("paired_input_ids")
+        paired_attention_mask = inputs.get("paired_attention_mask")
 
-        # Single input case (inference)
-        if input_ids_2 is None:
-            return outputs1
-        
-        # Paired input case (joint optimization training)
-        loss1 = outputs1.loss
-        outputs2 = original_forward(input_ids=input_ids_2, attention_mask=attention_mask_2, labels=labels_2, **kwargs)
-        loss2 = outputs2.loss
-        total_loss = loss1 + loss2
-        outputs1.loss = total_loss
+        # Forward pass
+        outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels, output_hidden_states=True)
+        ce_loss = outputs.loss
+        if paired_input_ids is None:
+            return (ce_loss, outputs) if return_outputs else ce_loss
 
-        # We only need the loss value during training
-        return outputs1
+        # Compute contrastive loss if paired data is available
+        with torch.no_grad():
+            paired_outputs = model(input_ids=paired_input_ids, attention_mask=paired_attention_mask, output_hidden_states=True)
+        # Extract sentence embeddings
+        # outputs.hidden_states is a tuple of hidden states from all layers, index the last one
+        h1 = ContrastiveLossTrainer.get_sentence_embedding(outputs.hidden_states[-1], attention_mask)
+        h2 = ContrastiveLossTrainer.get_sentence_embedding(paired_outputs.hidden_states[-1], paired_attention_mask)
+        contrastive_loss = 1 - F.cosine_similarity(h1, h2).mean()
 
-    # Bind paired_forward to the model's forward method
-    import types
-    model.forward = types.MethodType(paired_forward, model)
+        total_loss = ce_loss + self.contrastive_weight * contrastive_loss
 
+        return (total_loss, outputs) if return_outputs else total_loss
+
+
+def set_llama_model_with_eos_padding(model):
     # Use EOS token for padding
     model.config.pad_token_id = model.config.eos_token_id
     model.generation_config.pad_token_id = model.config.eos_token_id
@@ -43,7 +53,7 @@ def get_paired_loss_model(model_name, torch_dtype, cache_dir=None):
     return model
 
 
-def get_llama_tokenizer_for_seq2seq(model_name, cache_dir=None):
+def get_llama_tokenizer_with_eos_padding(model_name, cache_dir=None):
     # NOTE: it is important that we use use_fast=False for the EOS token to be added properly
     tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=cache_dir, use_fast=False)
 
