@@ -134,4 +134,8 @@ def download_and_preprocess_single_direction_dataset(dataset_link):
     call(f"rm dataset.jsonl", shell=True)
 
     dataset = Dataset.from_list(dataset)
+<<<<<<< HEAD
     return dataset
+=======
+    return dataset
+>>>>>>> origin/main
