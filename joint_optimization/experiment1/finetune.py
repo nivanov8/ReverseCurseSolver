@@ -147,8 +147,4 @@ trainer = Trainer(
 trainer.train()
 
 trainer.save_model(SAVE_DIR)
-<<<<<<< HEAD
 print (f"Model saved to {SAVE_DIR}")
-=======
-print (f"Model saved to {SAVE_DIR}")
->>>>>>> origin/main
