@@ -49,12 +49,18 @@ def get_formatted_dataset(path,tokenizer):
     all_pairs = []
     for example in dataset:
         all_pairs.extend(preprocess(example))
+    dataset = load_dataset("json", data_files=path.replace("dataset","dataset_1"))['train']
+    for example in dataset:
+        all_pairs.extend(preprocess(example))
+    dataset = load_dataset("json", data_files=path.replace("dataset","dataset_2"))['train']
+    for example in dataset:
+        all_pairs.extend(preprocess(example))
 
     # Create new HF dataset
     formatted_dataset = Dataset.from_list(all_pairs)
     tokenized = formatted_dataset.map(lambda p:tokenize(p,tokenizer))
     tokenized.set_format(type="torch", columns=["input_ids", "attention_mask","labels"])
-    return tokenized.train_test_split(test_size=0.1).values()
+    return tokenized.train_test_split(test_size=0.1,shuffle=True,seed=42).values()
 
 if __name__=="__main__":
     model_name="meta-llama/Llama-3.2-3B"
@@ -87,13 +93,15 @@ if __name__=="__main__":
         output_dir="./llama3-finetune-PORE",
         per_device_train_batch_size=1,
         gradient_accumulation_steps=4,
-        num_train_epochs=3,
+        num_train_epochs=10,
         logging_steps=10,
         save_strategy="epoch",
         learning_rate=2e-4,
         fp16=True,
         report_to="none",
-        save_total_limit=2
+        save_total_limit=3,
+        label_names=["labels"], 
+
     )
 
 
@@ -102,10 +110,10 @@ if __name__=="__main__":
         args=training_args,
         train_dataset=train,
         eval_dataset=test,
-        tokenizer=tokenizer
+        tokenizer=tokenizer,
     )
 
-    trainer.train()
+    trainer.train(resume_from_checkpoint=True)
 
     
     
