@@ -38,7 +38,10 @@ def tokenize(example,tokenizer):
 
 
 def getDataLoader(path,batch_size,tokenizer):
-    dataset=get_formatted_dataset(path)
+    if "test_dataset" in path:
+        dataset=get_formatted_dataset(path)
+    else:
+        dataset=get_formatted_dataset_zeroshot(path)
     dataset = dataset.map(lambda p:tokenize(p,tokenizer))
     dataset.set_format(type="torch", columns=["input_ids"])
     return DataLoader(dataset, batch_size, shuffle=True, collate_fn=custom_collate)
@@ -47,6 +50,27 @@ def custom_collate(batch):
     input_ids = torch.stack([item["input_ids"] for item in batch])
     return {"input_ids": input_ids.squeeze(0)}
 
+def preprocess_zeroshot(example):
+    prompt = example["origin_prompt"]
+    for key in example:
+        if key.startswith("qa_"):
+                prompt+=" "+example[key]
+    return {"text":prompt}
+def get_formatted_dataset_zeroshot(path):
+    dataset = load_dataset("json", data_files=path)['train']
+    all_pairs = []
+    for example in dataset:
+        all_pairs.append(preprocess_zeroshot(example))
+    dataset = load_dataset("json", data_files=path.replace("dataset","dataset_1"))['train']
+    for example in dataset:
+        all_pairs.append(preprocess_zeroshot(example))
+    dataset = load_dataset("json", data_files=path.replace("dataset","dataset_2"))['train']
+    for example in dataset:
+        all_pairs.append(preprocess_zeroshot(example))
+
+    # Create new HF dataset
+    return Dataset.from_list(all_pairs)
+
 if __name__=="__main__":
-    dataset=get_formatted_dataset("/w/247/abdulbasit/ReverseCurseSolver/diffusion/standard_positive_positive_positive_test_dataset.json")
+    dataset=get_formatted_dataset_zeroshot("/w/247/abdulbasit/ReverseCurseSolver/PORE/ar_train_dataset.json")
     

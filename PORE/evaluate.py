@@ -6,8 +6,11 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm import tqdm
 from transformers import BitsAndBytesConfig
 from peft import PeftConfig, PeftModel
-from utils import get_formatted_dataset
+from .utils import get_formatted_dataset,get_formatted_dataset_fewshot
 import bitsandbytes as bnb
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+from diffusion.model import add_mask_to_tokenizer
 
 
 def get_cond_log_prob(model, tokenizer, inputs, targets):
@@ -75,15 +78,18 @@ def evaluate_model(model, tokenizer, dataset):
 if __name__ == "__main__":
     # Parse arguments
     
-    MODEL_PATH="/w/247/abdulbasit/ReverseCurseSolver/PORE/llama3-finetune-PORE/checkpoint-46890"
+    MODEL_PATH="/scratch/expires-2025-Apr-19/abdulbasit/output/epoch-14"#"/scratch/expires-2025-Apr-19/abdulbasit/output_resume_2e4/epoch-9""/w/247/abdulbasit/ReverseCurseSolver/PORE/llama3-finetune-PORE/checkpoint-46890"
     CACHE_DIR = "/w/331/abdulbasit/loco-llm/assets"
     MODEL_NAME = "meta-llama/Llama-3.2-3B"
+    diffusion=True
+    zero_shot=True
     # Load fine-tuned model
     # NOTE: we do not set the padding token to eos here, because it is unnecessary for evaluation
     peft_config = PeftConfig.from_pretrained(MODEL_PATH)
    
     
-    model=AutoModelForCausalLM.from_pretrained(peft_config.base_model_name_or_path,quantization_config=BitsAndBytesConfig(
+    model=AutoModelForCausalLM.from_pretrained(peft_config.base_model_name_or_path
+                        ,quantization_config=BitsAndBytesConfig(
                         load_in_4bit=True,
                         bnb_4bit_compute_dtype=torch.bfloat16,
                         bnb_4bit_use_double_quant=True,
@@ -97,10 +103,17 @@ if __name__ == "__main__":
                         torch_dtype=torch.bfloat16,
                         cache_dir=CACHE_DIR)
     '''
-    model = PeftModel.from_pretrained(model, MODEL_PATH)
     tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-3B", cache_dir=CACHE_DIR, use_fast=False)
+    if diffusion:
+        mask_token_id=add_mask_to_tokenizer(tokenizer)
+        model.resize_token_embeddings(len(tokenizer))
+        
+    model = PeftModel.from_pretrained(model, MODEL_PATH)
     tokenizer.pad_token =tokenizer.eos_token
-    _,dataset_test=get_formatted_dataset("/w/247/abdulbasit/ReverseCurseSolver/PORE/ar_train_dataset.json").train_test_split(test_size=0.1,shuffle=True,seed=42).values()
+    if zero_shot:
+        _,dataset_test=get_formatted_dataset("/w/247/abdulbasit/ReverseCurseSolver/PORE/ar_train_dataset.json").train_test_split(test_size=0.1,shuffle=True,seed=42).values()
+    else:
+        dataset_test=get_formatted_dataset_fewshot("/w/247/abdulbasit/ReverseCurseSolver/diffusion/standard_positive_positive_positive_test_dataset.json")#train_test_split(test_size=0.1,shuffle=True,seed=42).values()
     print("Evaluating model...")
     (
         exact_match_accuracy,

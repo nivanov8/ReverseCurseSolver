@@ -30,3 +30,20 @@ def get_formatted_dataset(path):
     # Create new HF dataset
     formatted_dataset = Dataset.from_list(all_pairs)
     return formatted_dataset
+
+
+def get_formatted_dataset_fewshot(path):
+    dataset = load_dataset("json", data_files=path)['train']
+    all_pairs = []
+    for example in dataset:
+        all_pairs.append(example)
+    dataset = load_dataset("json", data_files=path.replace("dataset","dataset_1"))['train']
+    for example in dataset:
+        all_pairs.append(example)
+    dataset = load_dataset("json", data_files=path.replace("dataset","dataset_2"))['train']
+    for example in dataset:
+        all_pairs.append(example)
+    
+    # Create new HF dataset
+    formatted_dataset = Dataset.from_list(all_pairs)
+    return formatted_dataset

@@ -5,7 +5,7 @@ from torch.utils.data import DataLoader
 from transformers import BitsAndBytesConfig
 import bitsandbytes as bnb
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training, PeftModel, PeftConfig
-from dataset import getDataLoader
+from .dataset import getDataLoader
 from transformers import (
     AutoTokenizer,
     AutoModelForCausalLM,
@@ -18,6 +18,8 @@ import gc
 import os,shutil
 from peft import get_peft_model, LoraConfig, TaskType
 from datasets import load_dataset
+from huggingface_hub import login
+login(token="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")
 
 
 def find_all_linear_names(model):
@@ -84,8 +86,8 @@ if __name__=="__main__":
     cache_dir="/w/331/abdulbasit/loco-llm/assets"
     dataset_path="/w/247/abdulbasit/ReverseCurseSolver/PORE/ar_train_dataset.json"
     epoch=15
-    resume_checkpoint=None #"/scratch/expires-2025-Apr-19/abdulbasit/output/epoch-4"
-    save_dir="/scratch/expires-2025-Apr-19/abdulbasit/output_2e4"
+    resume_checkpoint="/scratch/expires-2025-Apr-19/abdulbasit/output/epoch-14"
+    save_dir="/scratch/expires-2025-Apr-19/abdulbasit/output"
 
     tokenizer=AutoTokenizer.from_pretrained(model_name,cache_dir)
     tokenizer.pad_token =tokenizer.eos_token
@@ -117,7 +119,7 @@ if __name__=="__main__":
     diffusion_model=DiffusionModel(model)
     #get datset
 
-    train_data=getDataLoader("/w/247/abdulbasit/ReverseCurseSolver/diffusion/standard_positive_positive_positive_test_dataset.json",1,tokenizer)
+    train_data=getDataLoader(dataset_path,1,tokenizer)
     
     optimizer = torch.optim.AdamW(diffusion_model.model.parameters(), lr=2e-4)
     for i in range(epoch):
