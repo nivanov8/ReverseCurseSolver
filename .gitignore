@@ -1,4 +1,5 @@
 .env
 figures/
 **/__pycache__
-**/llama3-finetune**
+**/llama3-finetuned**
+**/finetuned_model_saved

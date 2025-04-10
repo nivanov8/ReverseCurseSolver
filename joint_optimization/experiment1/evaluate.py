@@ -51,7 +51,7 @@ def evaluate_model(model, tokenizer, dataset):
         prompt_ids = tokenizer(prompt, return_tensors="pt").to(model.device)
         expected_completion_ids = tokenizer.encode(expected_completion, return_tensors="pt").to(model.device)
         
-        generated_ids = model.generate(**prompt_ids, max_new_tokens=len(expected_completion_ids[0]))
+        generated_ids = model.generate(**prompt_ids, max_new_tokens=len(expected_completion_ids[0])-1)
         generated_text = tokenizer.decode(generated_ids[0][len(prompt_ids[0]):], skip_special_tokens=True)
         
         if generated_text.strip().lower() == expected_completion.strip().lower():
@@ -77,7 +77,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_path", type=str, help="Path to the fine-tuned model")
     args = parser.parse_args()
 
-    CACHE_DIR = "/w/340/kjlee/.cache/huggingface"
+    CACHE_DIR = "/scratch/expires-2025-Apr-19"
     MODEL_NAME = "meta-llama/Llama-3.2-1B"
     # Load fine-tuned model
     # NOTE: we do not set the padding token to eos here, because it is unnecessary for evaluation

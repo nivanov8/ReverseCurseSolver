@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 from typing import List, Union
 #from wandb.apis.public import Run
+import os
 
 
 class Model(ABC):
@@ -8,10 +9,14 @@ class Model(ABC):
 
     @staticmethod
     def from_id(model_id: str, **kwargs) -> "Model":
-        if "llama" in model_id or "alpaca" in model_id:
+        if "llama" in model_id or "alpaca" in model_id or os.path.exists(model_id):
             from src.models.llama import LlamaModel
 
             return LlamaModel(model_name_or_path=model_id, **kwargs)
+        #if os.path.exists(model_id): #Assumes path exists
+            #from src.models.llama import LlamaModel
+
+            #return LlamaModel(model_name_or_path=model_id, **kwargs)
         else:
             raise NotImplementedError(f"Model {model_id} not implemented.")
 
