@@ -15,7 +15,7 @@ from transformers import Seq2SeqTrainer, Seq2SeqTrainingArguments, AutoTokenizer
 def finetune(direction, model_name):
     # Setup
     CACHE_DIR = "/scratch/expires-2025-Apr-19"
-    SAVE_DIR = "baseline_results/experiment1/finetuned_model_saved"
+    SAVE_DIR = "baseline_results/experiment1/finetuned_model_saved_normal"
     MODEL_NAME = model_name
     LEARNING_RATE = 3e-05
     NUM_EPOCHS = 5

@@ -9,3 +9,5 @@ seaborn
 matplotlib
 datasets
 trl
+bitsandbytes
+peft
