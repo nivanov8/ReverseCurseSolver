@@ -1,3 +1,6 @@
+# Paper associated with project
+[Exploring_Methods_to_Address_the_Reversal_Curse_in_LLMS.pdf](https://github.com/user-attachments/files/21397322/Exploring_Methods_to_Address_the_Reversal_Curse_in_LLMS.pdf)
+
 # ReverseCurseSolver
 ### Environment Setup
 1. Ensure miniconda3 is installed
